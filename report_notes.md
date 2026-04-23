@@ -74,12 +74,14 @@ Australian postcodes include 4-digit codes with a leading zero (NT 08xx, ACT 02x
 ### 4. Historical comments are domain-rich
 Of 3,432 historical rows, 145 have non-null `comment` fields — many flag pre-1997 generation with a baseline. Worth keeping for the integration stage (LGC eligibility context).
 
-## Dataset Description — ABS (Data by Region, Economy & Industry)
+## Dataset Description — ABS (Data by Region, Population & People)
 
-- **Source:** ABS 2011-24 Data by Region methodology page, hosts 10 topic XLSX workbooks (Population, Economy, Income, Health, etc.).
-- **Scraping design:** filenames are opaque (`14100DO0003_2011-24.xlsx`), so we scrape the page HTML, find the heading whose text contains both `economy` and `industry`, and pick the first XLSX link that follows it. Robust against ABS renumbering file IDs in future releases.
-- **Scope decision — Table 1 only:** the workbook has three sheets (`Contents`, `Table 1` ASGS regions, `Table 2` LGAs). We keep Table 1 only (29,090 cleaned rows covering AUS → State → GCCSA → SA4 → SA3 → SA2, 2,909 unique regions) and skip Table 2. LGAs are a parallel geography neither NGER nor CER use natively, so carrying it forward would force us to source an LGA-to-postcode concordance we don't need.
-- **Coverage:** 10 reporting years (2011, 2016-2024), 2,909 regions across 6 ASGS levels, 124 economic indicators per (region, year) row.
+- **Source:** ABS 2011-24 Data by Region methodology page, hosts 10 topic XLSX workbooks (Population, Economy, Income, Health, etc.). We originally prototyped against the Economy & Industry workbook (124 indicators) and narrowed to Population & People once it became clear the economy themes (business-counts, turnover bands, insolvencies, agriculture census, dwelling stock) were far too wide for the assignment's scope and produced a ~50%-sparse wide table.
+- **Scraping design:** filenames are opaque (`14100DO0001_2011-24.xlsx`), so we scrape the page HTML, find the heading whose text contains both `population` and `people`, and pick the first XLSX link that follows it. Same pattern that handled the Economy file — only the keyword list changed. Robust against ABS renumbering file IDs in future releases.
+- **Scope decision — Table 1 only:** the workbook has three sheets (`Contents`, `Table 1` ASGS regions, `Table 2` LGAs). We keep Table 1 only (26,181 cleaned rows covering AUS → State → GCCSA → SA4 → SA3 → SA2, 2,909 unique regions) and skip Table 2. LGAs are a parallel geography neither NGER nor CER use natively, so carrying it forward would force us to source an LGA-to-postcode concordance we don't need.
+- **Scope decision — ERP banner only:** within Table 1, we keep only the 9 columns sitting under the *"Estimated resident population - year ended 30 June"* banner (row 5, cols 3-11): ERP total, population density, ERP by sex, median age M/F/persons, working-age count and %. The remaining 150 columns on the sheet are filed under unrelated banners (births & deaths, internal/overseas migration, ATSI, overseas-born, religion, citizenship, language, ADF service) and are dropped. Slicing by exact header match against a declared list in `pipeline/clean/abs.py` so the step fails loudly if ABS renames a column.
+- **Coverage:** 9 reporting years (2011, 2016, 2018-2024), 2,909 regions across 6 ASGS levels, 9 demographic indicators per (region, year) row. 2011/2016/2018 are sparsely populated at most levels — ABS publishes only a subset of columns for those years and most cells are `-` sentinels → NaN after cleaning.
+- **FY alignment win:** ERP is an "as at 30 June" figure, so ABS `year == 2024` = snapshot at 30 June 2024 = end of Australian FY 2023-24. This aligns 1:1 with the NGER reporting-FY convention (`FY 2023-24` ↔ `financial_year_end == 2024`) without any calendar-vs-FY reconciliation.
 
 ## Data Cleaning — ABS quirks worth writing up
 
@@ -88,11 +90,11 @@ Of 3,432 historical rows, 145 have non-null `comment` fields — many flag pre-1
 - Row 6 is the real header.
 - Two rows at the bottom are footnotes (`"Note: Main Structure …"`, `"© Commonwealth of Australia 2025"`) that survive a naive `header=6` read. We drop them by filtering rows with a non-null `year` after coercion.
 
-### 2. Verbose headers → programmatic slugify (not a hand-written rename)
-127 source column names like `"Number of employing businesses: 1-4 employees"` and `"Value of private sector dwellings excl. houses ($m)"`. Unlike NGER/CER, there are no cross-source variants to collapse — each column is unique. We use a slugify function (lowercase → non-alphanumerics to `_` → collapse runs of `_`) and verified all 127 slugs are unique, so no hand override list is needed.
+### 2. Narrow slice by exact header match
+We slice the loaded DataFrame to 3 identifier columns + 9 ERP columns using a hard-coded exact-match list. Preferred over positional indexing because it fails loudly if ABS renames a column in a future vintage. After slicing, the same slugify pass (lowercase → non-alphanumerics to `_` → collapse runs) converts headers to snake_case.
 
 ### 3. Sentinel handling
-ABS uses `"-"` for suppressed or unavailable values (e.g. counts <3 suppressed for privacy; census-only indicators blank in non-census years). Replaced with NaN before numeric coercion.
+ABS uses `"-"` for suppressed or unavailable values (e.g. counts <3 suppressed for privacy; demographic indicators not published for 2011/2016/2018 in this workbook). Replaced with NaN before numeric coercion.
 
 ### 4. Code column preserves mixed string/numeric region IDs
 The `code` column contains both alphanumerics (`AUS`, `1GSYD`) and numeric-looking strings (`1`, `101`, `10102`, `101021007`). Excel returns the latter as floats (`1.0`, `101.0`), which would break `str.match`-based classification. We coerce to string defensively (handling both NaN and trailing `.0`).
@@ -109,23 +111,22 @@ The ASGS code format encodes the level, so we classify each row at clean time ra
 | 5 digits | SA3 | 340 |
 | 9 digits | SA2 | 2,454 |
 
-### 6. Sparsity is systematic, not random
-Census-year-only indicators (agriculture 82-93, employment-% 94-113) are blank in non-census years. Business-count indicators (3-55) are ~49% filled because small SA2s get suppressed. We preserve NaNs rather than filling — the sparsity pattern is semantic.
+### 6. Sparsity is temporal, not random
+Headline ERP is populated for 2019-2024 at every level, but 2011, 2016, and 2018 are sparse — ABS did not publish demographic breakdowns at all levels for those years. The 2024 vintage also has the sex-split and median-age columns NaN at STATE level (headline ERP is published earlier than the demographic breakdowns). We preserve NaNs rather than filling — the sparsity pattern is editorial.
 
 ## Database Design — ABS schema choice
 
 Justified for the report:
-- **Single wide table, composite PK `(code, year)`.** Denormalised.
-- **Why not long format?** Natural grain is `(region, year)`; every one of the 124 metrics shares that grain. Long format would explode to ~3.5M rows and force every downstream query to filter by `metric_key`, which is clumsy column indirection.
-- **Why not thematic split?** The themes (business, building, employment, agriculture, dwellings) all share the same grain and access pattern. Splitting would introduce joins without reducing redundancy.
-- **Sparsity trade-off:** ~50% of cells are NaN, but at 29K rows DuckDB storage cost is negligible (~9 MB CSV on disk).
-- **Integration point for NGER/CER:** the electricity-sector indicators (`electricity_gas_water_and_waste_services_no`, `electricity_gas_water_and_waste_services_pct` employment) at STATE level are the natural pivot for joining NGER facility data and CER renewables data.
+- **Single narrow table, composite PK `(code, year)`.** Denormalised but only 9 metric columns, so sparsity is incidental rather than structural.
+- **Why not long format?** Natural grain is `(region, year)`; every metric shares that grain. At 9 metrics × 26K rows long-format would only yield ~235K rows, not a blow-up — but it forces downstream queries to filter by `metric_key`, which is clumsy column indirection for so few metrics.
+- **Sparsity trade-off:** the 2011/2016/2018 rows are mostly NaN but retaining them keeps the year axis dense and avoids surprises at join time. CSV size ~1.85 MB on disk (down from ~9 MB under the old Economy scope).
+- **Integration point for NGER/CER:** `estimated_resident_population_no` at STATE level is the natural denominator for per-capita emissions (NGER `total_emissions_tco2e / ERP`) and per-capita renewable capacity (CER `installed_capacity_mw / ERP`). More interpretable than the old business-count pivot and supports the comparative state-level narrative the report pitches in Section 5.
 
 ## Data Exploration — visual ideas
 - **Bar chart**: NGER facility count per reporting year (shows sector growth / broadening reporting).
 - **Bar chart** or stacked: total emissions by primary fuel over time.
 - **Map**: facility locations coloured by fuel type, once geocoded (Section 4).
-- **Scatter / bar**: NGER electricity generation per state vs ABS electricity-sector business count per state (2023) — tests whether states with more grid generation also have more sector businesses.
+- **Scatter / bar**: NGER per-capita emissions per state (total emissions / ABS ERP) for 2023 — shows which states lean high-emission relative to population. Cleaner read than absolute emissions, which are dominated by NSW/VIC/QLD by sheer size.
 - **Line chart**: CER `historical_accredited` capacity commissioned per year vs NGER facility count per year — policy/sector growth co-movement.
 
 ## Data Augmentation — Geocoding
@@ -186,9 +187,9 @@ Grain-driven split, same pattern used across all three sources:
 
 - **`facility`** (4,219 rows) — one row per unique physical facility. Star-schema dimension + all CER attributes preserved.
 - **`generation`** (4,850 rows) — one row per facility-year (NGER F/FA only). Star-schema fact; FK to `facility`.
-- **`abs_economy`** (29,090 rows) — one row per region-year (ABS wide). Separate fact keyed by `(code, year)` and joinable to the other two via `state` at STATE-level filter.
+- **`abs_population`** (26,181 rows) — one row per region-year (ABS narrow). Separate fact keyed by `(code, year)` and joinable to the other two via `state` at STATE-level filter.
 
-**Shared join key:** `state` as 2-letter abbrev (`NSW`, `VIC`, …, `OT`) on all three tables. For `abs_economy`, derived from the leading digit of the ASGS code. Skipped a separate `dim_state` lookup — 2-letter abbrev directly embedded is simpler and still gives consistent cross-source joins.
+**Shared join key:** `state` as 2-letter abbrev (`NSW`, `VIC`, …, `OT`) on all three tables. For `abs_population`, derived from the leading digit of the ASGS code. Skipped a separate `dim_state` lookup — 2-letter abbrev directly embedded is simpler and still gives consistent cross-source joins.
 
 **Why not a single monolithic table?** The three sources have fundamentally different grains (facility vs facility-year vs region-year). Forcing a single shape would force nonsensical Cartesian joins or massive NULL inflation. The 3-table split respects each source's grain while sharing keys for integration.
 
@@ -233,10 +234,10 @@ Documented in the report:
 - NGER `row_type = 'C'` (1,056 corporate roll-ups) — excluded from `generation`. Reconstructable as `SUM(generation) GROUP BY reporting_entity`.
 - NGER `jv_double_counted = True` (30 rows) — excluded; would inflate state totals.
 - NGER sentinel `row_type` (`-`, blank, 6 rows) — excluded.
-- All 124 ABS metric columns preserved. Any `-` suppressed values already resolved to NULL at clean stage.
+- All 9 ABS metric columns preserved. Any `-` suppressed values already resolved to NULL at clean stage.
 
 ### Year reconciliation
-NGER `reporting_year` stored as string (`"2014-15"`, …, `"2023-24"`) plus a derived integer `financial_year_end` (2015, …, 2024). ABS `year` is calendar. Join convention: match NGER FY to its ending calendar year (`FY 2023-24 == calendar 2024`). Documented explicitly.
+NGER `reporting_year` stored as string (`"2014-15"`, …, `"2023-24"`) plus a derived integer `financial_year_end` (2015, …, 2024). ABS `year` for Population & People is the "as at 30 June" snapshot year — `year == 2024` is the 30 June 2024 ERP, which coincides exactly with the end of NGER FY 2023-24. Join convention: `financial_year_end == abs_year` directly. No calendar/FY offset needed, unlike the Economy workbook which mixed calendar-year and FY metrics.
 
 
 

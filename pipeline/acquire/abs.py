@@ -1,13 +1,13 @@
-"""ABS Data by Region — Economy and Industry acquisition.
+"""ABS Data by Region — Population and People acquisition.
 
 The ABS hosts ten XLSX files on its 2011-24 Data by Region methodology
 page, one per topic (Population, Economy, Income, Health, etc.). Each
 file link sits below a heading that names the topic. The filename alone
-(``14100DO0003_2011-24.xlsx``) does not encode the topic, so we scrape
-the page for the heading we want ("Economy and industry, ASGS and LGA,
+(``14100DO0001_2011-24.xlsx``) does not encode the topic, so we scrape
+the page for the heading we want ("Population and people, ASGS and LGA,
 …") and pick the first XLSX link after it.
 
-Only one file is downloaded — ``economy_and_industry.xlsx`` — landing
+Only one file is downloaded — ``population_and_people.xlsx`` — landing
 under ``data/raw/abs/``.
 """
 
@@ -21,12 +21,12 @@ from bs4 import BeautifulSoup
 
 
 RAW_DIR = Path("data") / "raw" / "abs"
-OUT_FILE = RAW_DIR / "economy_and_industry.xlsx"
+OUT_FILE = RAW_DIR / "population_and_people.xlsx"
 
 PAGE_URL = "https://www.abs.gov.au/methodologies/data-region-methodology/2011-24"
 
 # Heading must contain all of these (case-insensitive) to match.
-HEADING_KEYWORDS = ["economy", "industry"]
+HEADING_KEYWORDS = ["population", "people"]
 
 REQUEST_TIMEOUT = 120
 
@@ -52,11 +52,11 @@ def _find_xlsx_url(page_html: str, page_url: str, keywords: list[str]) -> str:
 
 
 def fetch_abs(use_cache: bool = True) -> None:
-    """Scrape the ABS methodology page and download the Economy & Industry XLSX."""
+    """Scrape the ABS methodology page and download the Population & People XLSX."""
     RAW_DIR.mkdir(parents=True, exist_ok=True)
 
     if use_cache and OUT_FILE.exists():
-        _log(f"  economy_and_industry.xlsx → {OUT_FILE.stat().st_size // 1024} KB [cached]")
+        _log(f"  population_and_people.xlsx → {OUT_FILE.stat().st_size // 1024} KB [cached]")
         return
 
     session = requests.Session()
