@@ -80,7 +80,7 @@ def _resolve(cache: dict, query: str, **fetch_kwargs) -> tuple[dict | None, bool
 
 def geocode_facilities(*, limit: int | None = None) -> dict:
     df = pd.read_csv(FACILITY_FILE)
-    targets = df[df["use_for_geocoding"] == True].reset_index(drop=True)  # noqa: E712
+    targets = df[df["use_for_geocoding"] == True].reset_index(drop=True)
     if limit:
         targets = targets.head(limit)
 
