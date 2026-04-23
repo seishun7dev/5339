@@ -8,6 +8,15 @@
     "source": "facility",
     "state": "VIC"
   },
+  "1 National Circuit Barton, 2600, ACT, Australia": {
+    "area": "Department of the Prime Minister and Cabinet, 1, National Circuit, Barton, South Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",
+    "lat": -35.3056452,
+    "lon": 149.1323934,
+    "name": "1 National Circuit Barton",
+    "postcode": "2600",
+    "source": "facility",
+    "state": "ACT"
+  },
   "100 Harris Street Pyrmont, 2009, NSW, Australia": {
     "area": "WeWork, 100, Harris Street, Pyrmont, Sydney CBD, Sydney, New South Wales, 2009, Australia, Council of the City of Sydney",
     "lat": -33.8685055,
@@ -16,6 +25,15 @@
     "postcode": "2009",
     "source": "facility",
     "state": "NSW"
+  },
+  "115 Frederick Street, 4013, QLD, Australia": {
+    "area": "Frederick Street, Northgate, City of Brisbane, Queensland, 4013, Australia",
+    "lat": -27.3870963,
+    "lon": 153.0745353,
+    "name": "115 Frederick Street",
+    "postcode": "4013",
+    "source": "facility",
+    "state": "QLD"
   },
   "1182 Old Port Rd Power Station, 5014, SA, Australia": null,
   "134-140 Fairbairn Road, 3020, VIC, Australia": {
@@ -26,6 +44,15 @@
     "postcode": "3020",
     "source": "facility",
     "state": "VIC"
+  },
+  "139 Hughes Street, 3644, NSW, Australia": {
+    "area": "Hughes Street, Barooga, Berrigan Shire Council, New South Wales, 3644, Australia",
+    "lat": -35.9141699,
+    "lon": 145.7085777,
+    "name": "139 Hughes Street",
+    "postcode": "3644",
+    "source": "facility",
+    "state": "NSW"
   },
   "16 Veales Rd, Deeragun, 4818, QLD, Australia": {
     "area": "Veales Road, Deeragun, Queensland, 4818, Australia",
@@ -45,6 +72,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "19th Avenue Shopping Centre Elanora, 4221, QLD, Australia": null,
   "2 Faulding Street, 2609, ACT, Australia": {
     "area": "Faulding Street, District of Jerrabomberra, Canberra, Australian Capital Territory, 2609, Australia",
     "lat": -35.3356474,
@@ -72,6 +100,7 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "200B, 2200, NSW, Australia": null,
   "2015, Australia": {
     "area": "2015, Alexandria, New South Wales, Australia",
     "lat": -33.9079548,
@@ -225,6 +254,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2086, Australia": {
+    "area": "2086, Frenchs Forest, Northern Beaches, Sydney, New South Wales, Australia",
+    "lat": -33.7521445,
+    "lon": 151.2351744,
+    "name": "Interfine Investments Pty Ltd - 416kW",
+    "postcode": "2086",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2095, Australia": {
     "area": "2095, Northern Beaches, Sydney, New South Wales, Australia",
     "lat": -33.7992808,
@@ -303,6 +341,24 @@
     "lon": 151.0452823,
     "name": "CCS Media",
     "postcode": "2128",
+    "source": "postcode",
+    "state": "NSW"
+  },
+  "2131, Australia": {
+    "area": "2131, Ashfield, New South Wales, Australia",
+    "lat": -33.886,
+    "lon": 151.1260873,
+    "name": "Woolworths Ashfield North 1813",
+    "postcode": "2131",
+    "source": "postcode",
+    "state": "NSW"
+  },
+  "2135, Australia": {
+    "area": "2135, Strathfield, Inner West, Sydney, Strathfield Municipal Council, New South Wales, Australia",
+    "lat": -33.8757546,
+    "lon": 151.0894167,
+    "name": "Australia Post: Sydney West Letters Facility (SWLF)",
+    "postcode": "2135",
     "source": "postcode",
     "state": "NSW"
   },
@@ -438,6 +494,15 @@
     "lon": 150.9363173,
     "name": "ISPT Wrights Rd, Kellyville",
     "postcode": "2155",
+    "source": "postcode",
+    "state": "NSW"
+  },
+  "2158, Australia": {
+    "area": "2158, Dural, Sydney, The Hills Shire Council, New South Wales, Australia",
+    "lat": -33.7061125,
+    "lon": 151.0290461,
+    "name": "Dural Baptist Church",
+    "postcode": "2158",
     "source": "postcode",
     "state": "NSW"
   },
@@ -891,6 +956,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2319, Australia": {
+    "area": "2319, Mallabula, New South Wales, Australia",
+    "lat": -32.7347741,
+    "lon": 152.0174587,
+    "name": "Tanilba Bay WWTW",
+    "postcode": "2319",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2320, Australia": {
     "area": "2320, Rutherford, Newcastle-Maitland, Maitland City Council, New South Wales, Australia",
     "lat": -32.712403,
@@ -1098,6 +1172,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2428, Australia": {
+    "area": "2428, New South Wales, Australia",
+    "lat": -32.2383383,
+    "lon": 152.5065518,
+    "name": "Agile Energy - Evermore - 277kW",
+    "postcode": "2428",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2430, Australia": {
     "area": "2430, Kiwarrak, Mid-Coast Council, New South Wales, Australia",
     "lat": -31.9578113,
@@ -1287,6 +1370,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2529, Australia": {
+    "area": "2529, Blackbutt, Shellharbour City Council, New South Wales, Australia",
+    "lat": -34.5733971,
+    "lon": 150.8400169,
+    "name": "WARRIGAL CARE SHELL COVE",
+    "postcode": "2529",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2535, Australia": {
     "area": "2535, Berry, Shoalhaven City Council, New South Wales, Australia",
     "lat": -34.7772209,
@@ -1359,6 +1451,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2563, Australia": {
+    "area": "2563, Menangle Park, New South Wales, Australia",
+    "lat": -34.1086498,
+    "lon": 150.7482892,
+    "name": "Menangle Race Club",
+    "postcode": "2563",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2565, Australia": {
     "area": "2565, Ingleburn, New South Wales, Australia",
     "lat": -34.0028408,
@@ -1410,6 +1511,15 @@
     "lon": 150.4282321,
     "name": "Woolworths Bowral 1162",
     "postcode": "2576",
+    "source": "postcode",
+    "state": "NSW"
+  },
+  "2577, Australia": {
+    "area": "2577, Moss Vale, New South Wales, Australia",
+    "lat": -34.5600026,
+    "lon": 150.4246915,
+    "name": "Eilbeck cranes Moss Vale",
+    "postcode": "2577",
     "source": "postcode",
     "state": "NSW"
   },
@@ -1626,6 +1736,15 @@
     "lon": 146.3191308,
     "name": "Corowa Solar Farm",
     "postcode": "2646",
+    "source": "postcode",
+    "state": "NSW"
+  },
+  "2647, Australia": {
+    "area": "2647, Mulwala, Federation Council, New South Wales, Australia",
+    "lat": -35.9888944,
+    "lon": 146.0057533,
+    "name": "MWSC Microgrid",
+    "postcode": "2647",
     "source": "postcode",
     "state": "NSW"
   },
@@ -1854,6 +1973,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2756, Australia": {
+    "area": "2756, Freemans Reach, Hawkesbury City Council, New South Wales, Australia",
+    "lat": -33.5610167,
+    "lon": 150.8243025,
+    "name": "ELF FARM SUPPLIES_System 1",
+    "postcode": "2756",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2759, Australia": {
     "area": "2759, St Clair, Sydney, New South Wales, Australia",
     "lat": -33.7992816,
@@ -1944,6 +2072,15 @@
     "source": "postcode",
     "state": "NSW"
   },
+  "2791, Australia": {
+    "area": "2791, Carcoar, Blayney Shire Council, New South Wales, Australia",
+    "lat": -33.5946573,
+    "lon": 149.1278064,
+    "name": "FLYERS CREEK WIND FARM",
+    "postcode": "2791",
+    "source": "postcode",
+    "state": "NSW"
+  },
   "2795, Australia": {
     "area": "2795, Kelso, Bathurst, Bathurst Regional Council, New South Wales, Australia",
     "lat": -33.413706,
@@ -1961,6 +2098,15 @@
     "postcode": "2799",
     "source": "postcode",
     "state": "NSW"
+  },
+  "28 Weyba St, 4014, QLD, Australia": {
+    "area": "28, Weyba Street, Banyo, Brisbane, Queensland, 4014, Australia",
+    "lat": -27.3883793,
+    "lon": 153.0896868,
+    "name": "28 Weyba St",
+    "postcode": "4014",
+    "source": "facility",
+    "state": "QLD"
   },
   "2800, Australia": {
     "area": "2800, Orange, Orange City Council, New South Wales, Australia",
@@ -2178,6 +2324,15 @@
     "source": "postcode",
     "state": "ACT"
   },
+  "3-5 National Circuit Barton, 2600, ACT, Australia": {
+    "area": "Attorney-General\u2019s Department, 3-5, National Circuit, Barton, South Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",
+    "lat": -35.3065339,
+    "lon": 149.1325579,
+    "name": "3-5 National Circuit Barton",
+    "postcode": "2600",
+    "source": "facility",
+    "state": "ACT"
+  },
   "3000, Australia": {
     "area": "3000, Melbourne, City of Melbourne, Victoria, Australia",
     "lat": -37.815614,
@@ -2367,6 +2522,15 @@
     "source": "postcode",
     "state": "VIC"
   },
+  "3048, Australia": {
+    "area": "3048, Coolaroo, Victoria, Australia",
+    "lat": -37.6537418,
+    "lon": 144.9295375,
+    "name": "Somerton Pump Station",
+    "postcode": "3048",
+    "source": "postcode",
+    "state": "VIC"
+  },
   "3052, Australia": {
     "area": "3052, Parkville, City of Melbourne, Victoria, Australia",
     "lat": -37.7878667,
@@ -2454,6 +2618,15 @@
     "lon": 145.008168,
     "name": "Craig Walters PV",
     "postcode": "3072",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3073, Australia": {
+    "area": "3073, Reservoir, Victoria, Australia",
+    "lat": -37.71328,
+    "lon": 145.0120607,
+    "name": "Preston Mini",
+    "postcode": "3073",
     "source": "postcode",
     "state": "VIC"
   },
@@ -2637,6 +2810,15 @@
     "source": "postcode",
     "state": "VIC"
   },
+  "315 Parramatta Road, 2144, NSW, Australia": {
+    "area": "Parramatta Road, Auburn, Sydney, Cumberland City Council, New South Wales, 2144, Australia",
+    "lat": -33.8409347,
+    "lon": 151.0349244,
+    "name": "315 Parramatta Road",
+    "postcode": "2144",
+    "source": "facility",
+    "state": "NSW"
+  },
   "3150, Australia": {
     "area": "3150, Melbourne, City of Melbourne, Victoria, Australia",
     "lat": -37.8900047,
@@ -2781,6 +2963,15 @@
     "source": "postcode",
     "state": "VIC"
   },
+  "3180, Australia": {
+    "area": "3180, Knoxfield, City of Knox, Victoria, Australia",
+    "lat": -37.8882234,
+    "lon": 145.2492936,
+    "name": "JCs Quality Foods",
+    "postcode": "3180",
+    "source": "postcode",
+    "state": "VIC"
+  },
   "3189, Australia": {
     "area": "3189, Moorabbin, Melbourne, Victoria, Australia",
     "lat": -37.9426749,
@@ -2877,6 +3068,15 @@
     "lon": 144.4054384,
     "name": "St Laurence Community Services Nursing Home",
     "postcode": "3212",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3213, Australia": {
+    "area": "3213, Anakie, City of Greater Geelong, Victoria, Australia",
+    "lat": -37.9724311,
+    "lon": 144.2721131,
+    "name": "Jalna Feedlot",
+    "postcode": "3213",
     "source": "postcode",
     "state": "VIC"
   },
@@ -3003,6 +3203,15 @@
     "lon": 142.5002002,
     "name": "Warrnambool WTP",
     "postcode": "3280",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3284, Australia": {
+    "area": "3284, Port Fairy, Shire of Moyne, Victoria, Australia",
+    "lat": -38.3651643,
+    "lon": 142.2240216,
+    "name": "Ryan Corner Wind Farm",
+    "postcode": "3284",
     "source": "postcode",
     "state": "VIC"
   },
@@ -3174,6 +3383,15 @@
     "lon": 142.5835671,
     "name": "Lake Fyans 96023",
     "postcode": "3381",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3385, Australia": {
+    "area": "3385, Glenorchy, Victoria, Australia",
+    "lat": -36.8992894,
+    "lon": 142.5991745,
+    "name": "Greentech 1 Solar Farm & BESS",
+    "postcode": "3385",
     "source": "postcode",
     "state": "VIC"
   },
@@ -3429,6 +3647,24 @@
     "source": "postcode",
     "state": "VIC"
   },
+  "3568, Australia": {
+    "area": "3568, Cohuna, Shire of Gannawarra, Victoria, Australia",
+    "lat": -35.8222445,
+    "lon": 144.2021052,
+    "name": "RK & JR GORDON",
+    "postcode": "3568",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3570, Australia": {
+    "area": "3570, Raywood, City of Greater Bendigo, Victoria, Australia",
+    "lat": -36.5007623,
+    "lon": 144.2671341,
+    "name": "Greentech 8 Solar Farm & BESS",
+    "postcode": "3570",
+    "source": "postcode",
+    "state": "VIC"
+  },
   "3571, Australia": {
     "area": "3571, Dingee, Shire of Loddon, Victoria, Australia",
     "lat": -36.3993296,
@@ -3455,6 +3691,15 @@
     "postcode": "3579",
     "source": "postcode",
     "state": "VIC"
+  },
+  "358 Chisholm Rd, Auburn, 2144, NSW, Australia": {
+    "area": "Chisholm Road, Auburn, Sydney, Cumberland City Council, New South Wales, 2144, Australia",
+    "lat": -33.87311,
+    "lon": 151.0167839,
+    "name": "358 Chisholm Rd, Auburn",
+    "postcode": "2144",
+    "source": "facility",
+    "state": "NSW"
   },
   "3585, Australia": {
     "area": "3585, Swan Hill, Rural City of Swan Hill, Victoria, Australia",
@@ -3699,6 +3944,15 @@
     "source": "postcode",
     "state": "VIC"
   },
+  "3685, Australia": {
+    "area": "3685, Rutherglen, Shire of Indigo, Victoria, Australia",
+    "lat": -36.0493019,
+    "lon": 146.4659887,
+    "name": "OLERS - RUTHERGLEN IGA",
+    "postcode": "3685",
+    "source": "postcode",
+    "state": "VIC"
+  },
   "3690, Australia": {
     "area": "3690, Wodonga, City of Wodonga, Victoria, Australia",
     "lat": -36.1359236,
@@ -3795,6 +4049,15 @@
     "lon": 145.0706592,
     "name": "San Carlo Home for the Aged",
     "postcode": "3752",
+    "source": "postcode",
+    "state": "VIC"
+  },
+  "3775, Australia": {
+    "area": "3775, Yarra Glen, Victoria, Australia",
+    "lat": -37.6378411,
+    "lon": 145.3787457,
+    "name": "Winneke Water Treatment Plant",
+    "postcode": "3775",
     "source": "postcode",
     "state": "VIC"
   },
@@ -4140,6 +4403,15 @@
     "source": "postcode",
     "state": "QLD"
   },
+  "4012, Australia": {
+    "area": "4012, Wavell Heights, Nundah, City of Brisbane, Queensland, Australia",
+    "lat": -27.3982866,
+    "lon": 153.0548527,
+    "name": "GLOBAL FOOD & WINE (BRIS)",
+    "postcode": "4012",
+    "source": "postcode",
+    "state": "QLD"
+  },
   "4013, Australia": {
     "area": "4013, Northgate, City of Brisbane, Queensland, Australia",
     "lat": -27.3915484,
@@ -4173,6 +4445,15 @@
     "lon": 153.0401492,
     "name": "Roghan Road LFG Power Station",
     "postcode": "4018",
+    "source": "postcode",
+    "state": "QLD"
+  },
+  "4020, Australia": {
+    "area": "4020, Newport, City of Moreton Bay, Queensland, Australia",
+    "lat": -27.214609,
+    "lon": 153.0967307,
+    "name": "Blue Care Redcliffe",
+    "postcode": "4020",
     "source": "postcode",
     "state": "QLD"
   },
@@ -4320,6 +4601,15 @@
     "source": "postcode",
     "state": "QLD"
   },
+  "4109, Australia": {
+    "area": "4109, Sunnybank, City of Brisbane, Queensland, Australia",
+    "lat": -27.5822475,
+    "lon": 153.0541219,
+    "name": "Retail First Sunnybank Hills",
+    "postcode": "4109",
+    "source": "postcode",
+    "state": "QLD"
+  },
   "4110, Australia": {
     "area": "4110, Pallara, City of Brisbane, Queensland, Australia",
     "lat": -27.6135235,
@@ -4383,6 +4673,15 @@
     "source": "postcode",
     "state": "QLD"
   },
+  "4124, Australia": {
+    "area": "4124, Greenbank, Logan City, Brisbane, Queensland, Australia",
+    "lat": -27.7283591,
+    "lon": 152.9357298,
+    "name": "Sisters Of St Paul De Chartres",
+    "postcode": "4124",
+    "source": "postcode",
+    "state": "QLD"
+  },
   "4127, Australia": {
     "area": "4127, Springwood, Logan City, Queensland, Australia",
     "lat": -27.6261877,
@@ -4434,6 +4733,15 @@
     "lon": 153.210811,
     "name": "Birkdale LFG",
     "postcode": "4159",
+    "source": "postcode",
+    "state": "QLD"
+  },
+  "4161, Australia": {
+    "area": "4161, Alexandra Hills, Queensland, Australia",
+    "lat": -27.5324423,
+    "lon": 153.228888,
+    "name": "LAVA BLUE (BRIS)",
+    "postcode": "4161",
     "source": "postcode",
     "state": "QLD"
   },
@@ -4551,6 +4859,15 @@
     "lon": 153.4045345,
     "name": "BUPA Runaway Bay 51kWp",
     "postcode": "4216",
+    "source": "postcode",
+    "state": "QLD"
+  },
+  "4217, Australia": {
+    "area": "4217, Southport, Queensland, Australia",
+    "lat": -27.9904532,
+    "lon": 153.4095899,
+    "name": "Redwing (Ashmore) Pty Ltd",
+    "postcode": "4217",
     "source": "postcode",
     "state": "QLD"
   },
@@ -4887,6 +5204,15 @@
     "source": "postcode",
     "state": "QLD"
   },
+  "4508, Australia": {
+    "area": "4508, Deception Bay, City of Moreton Bay, Queensland, Australia",
+    "lat": -27.1819025,
+    "lon": 153.0071599,
+    "name": "Energy Bay - Deception Bay",
+    "postcode": "4508",
+    "source": "postcode",
+    "state": "QLD"
+  },
   "4509, Australia": {
     "area": "4509, North Lakes, City of Moreton Bay, Queensland, Australia",
     "lat": -27.2326415,
@@ -5091,6 +5417,15 @@
     "lon": 149.8692918,
     "name": "MOURA SOLAR FARM SPV PTY LTD",
     "postcode": "4702",
+    "source": "postcode",
+    "state": "QLD"
+  },
+  "4703, Australia": {
+    "area": "4703, Inverness, Livingstone Shire, Queensland, Australia",
+    "lat": -23.1089661,
+    "lon": 150.7302279,
+    "name": "Energy Bay - Keppel Bay Plaza",
+    "postcode": "4703",
     "source": "postcode",
     "state": "QLD"
   },
@@ -5415,6 +5750,15 @@
     "lon": 144.9903695,
     "name": "Kidston Solar One - Solar \u2013 Qld",
     "postcode": "4871",
+    "source": "postcode",
+    "state": "QLD"
+  },
+  "4873, Australia": {
+    "area": "4873, Whyanbeel, Douglas Shire, Queensland, Australia",
+    "lat": -16.3366481,
+    "lon": 145.375339,
+    "name": "Woolworths Mossman 2769",
+    "postcode": "4873",
     "source": "postcode",
     "state": "QLD"
   },
@@ -5784,6 +6128,15 @@
     "lon": 138.6404254,
     "name": "Bickfords Australia - Salisbury Factory",
     "postcode": "5106",
+    "source": "postcode",
+    "state": "SA"
+  },
+  "5108, Australia": {
+    "area": "5108, Paralowie, South Australia, Australia",
+    "lat": -34.7581336,
+    "lon": 138.6285753,
+    "name": "DiMauro Group Parabanks Shopping Centre",
+    "postcode": "5108",
     "source": "postcode",
     "state": "SA"
   },
@@ -6282,6 +6635,15 @@
     "source": "postcode",
     "state": "SA"
   },
+  "5417, Australia": {
+    "area": "5417, Mongolata, The Regional Council of Goyder, South Australia, Australia",
+    "lat": -33.6252818,
+    "lon": 139.0606124,
+    "name": "Goyder South Wind Farm 1A",
+    "postcode": "5417",
+    "source": "postcode",
+    "state": "SA"
+  },
   "5418, Australia": {
     "area": "5418, Mount Bryan East, The Regional Council of Goyder, South Australia, Australia",
     "lat": -33.4764943,
@@ -6342,6 +6704,15 @@
     "lon": 138.0062253,
     "name": "Baroota 4.99MVA Solar Farm",
     "postcode": "5495",
+    "source": "postcode",
+    "state": "SA"
+  },
+  "5501, Australia": {
+    "area": "5501, Lower Light, Adelaide Plains Council, South Australia, Australia",
+    "lat": -34.498771,
+    "lon": 138.4045324,
+    "name": "Xavier College - Solar with SGU",
+    "postcode": "5501",
     "source": "postcode",
     "state": "SA"
   },
@@ -6450,6 +6821,15 @@
     "lon": 135.8593266,
     "name": "Cathedral Rocks Wind Farm",
     "postcode": "5606",
+    "source": "postcode",
+    "state": "SA"
+  },
+  "5608, Australia": {
+    "area": "5608, Whyalla Norrie, The Corporation of the City of Whyalla, South Australia, Australia",
+    "lat": -33.0278072,
+    "lon": 137.5352239,
+    "name": "Woolworths Whyalla Westland 5635",
+    "postcode": "5608",
     "source": "postcode",
     "state": "SA"
   },
@@ -6567,6 +6947,15 @@
     "lon": 115.8591862,
     "name": "AAC19",
     "postcode": "6006",
+    "source": "postcode",
+    "state": "WA"
+  },
+  "6008, Australia": {
+    "area": "6008, Subiaco, City of Subiaco, Western Australia, Australia",
+    "lat": -31.9524414,
+    "lon": 115.8228354,
+    "name": "Marketlane Subiaco",
+    "postcode": "6008",
     "source": "postcode",
     "state": "WA"
   },
@@ -6831,6 +7220,15 @@
     "source": "postcode",
     "state": "WA"
   },
+  "6076, Australia": {
+    "area": "6076, Kalamunda, City of Kalamunda, Western Australia, Australia",
+    "lat": -31.9830413,
+    "lon": 116.0499193,
+    "name": "Region Group Kalamunda",
+    "postcode": "6076",
+    "source": "postcode",
+    "state": "WA"
+  },
   "6084, Australia": {
     "area": "6084, Bullsbrook, City of Swan, Western Australia, Australia",
     "lat": -31.6485434,
@@ -7029,6 +7427,15 @@
     "source": "postcode",
     "state": "WA"
   },
+  "6165, Australia": {
+    "area": "6165, Hope Valley, City of Kwinana, Western Australia, Australia",
+    "lat": -32.2001183,
+    "lon": 115.7932008,
+    "name": "SOUTHERN STEEL (WA) PTY LIMITED",
+    "postcode": "6165",
+    "source": "postcode",
+    "state": "WA"
+  },
   "6166, Australia": {
     "area": "6166, Lake Coogee, City of Cockburn, Western Australia, Australia",
     "lat": -32.131129,
@@ -7224,6 +7631,24 @@
     "lon": 117.403179,
     "name": "Mawson Trig",
     "postcode": "6383",
+    "source": "postcode",
+    "state": "WA"
+  },
+  "6391, Australia": {
+    "area": "6391, Williams, Western Australia, Australia",
+    "lat": -33.0379873,
+    "lon": 116.5981009,
+    "name": "Narrakine Hay",
+    "postcode": "6391",
+    "source": "postcode",
+    "state": "WA"
+  },
+  "6395, Australia": {
+    "area": "6395, Jingalup, Shire of Kojonup, Western Australia, Australia",
+    "lat": -33.9112493,
+    "lon": 117.1378991,
+    "name": "FLATROCKS_WF1 - Wind Farm",
+    "postcode": "6395",
     "source": "postcode",
     "state": "WA"
   },
@@ -7443,6 +7868,24 @@
     "source": "postcode",
     "state": "WA"
   },
+  "6639, Australia": {
+    "area": "6639, Sandstone, Shire of Sandstone, Western Australia, Australia",
+    "lat": -27.9879555,
+    "lon": 119.2979434,
+    "name": "Sandstone Renewable Energy Facility - Solar and BESS",
+    "postcode": "6639",
+    "source": "postcode",
+    "state": "WA"
+  },
+  "6640, Australia": {
+    "area": "6640, Weld Range, Shire of Cue, Western Australia, Australia",
+    "lat": -27.1009617,
+    "lon": 117.7838341,
+    "name": "Cue -Renewable Energy Facility",
+    "postcode": "6640",
+    "source": "postcode",
+    "state": "WA"
+  },
   "6642, Australia": {
     "area": "6642, Peak Hill, Shire of Meekatharra, Western Australia, Australia",
     "lat": -25.5994504,
@@ -7497,6 +7940,24 @@
     "source": "postcode",
     "state": "WA"
   },
+  "6721, Australia": {
+    "area": "6721, Port Hedland, Town of Port Hedland, Western Australia, Australia",
+    "lat": -20.3824207,
+    "lon": 118.6592275,
+    "name": "North Star Junction",
+    "postcode": "6721",
+    "source": "postcode",
+    "state": "WA"
+  },
+  "6725, Australia": {
+    "area": "6725, Western Australia, Australia",
+    "lat": -17.9912937,
+    "lon": 122.2647974,
+    "name": "BP Shinju Broome",
+    "postcode": "6725",
+    "source": "postcode",
+    "state": "WA"
+  },
   "6740, Australia": {
     "area": "6740, Drysdale River, Shire of Wyndham-East Kimberley, Western Australia, Australia",
     "lat": -15.0423213,
@@ -7533,6 +7994,15 @@
     "source": "postcode",
     "state": "WA"
   },
+  "7 CALLISTER, 3064, VIC, Australia": {
+    "area": "7, Callister Place, Craigieburn, Melbourne, City of Hume, Victoria, 3064, Australia",
+    "lat": -37.583325,
+    "lon": 144.9489842,
+    "name": "7 CALLISTER",
+    "postcode": "3064",
+    "source": "facility",
+    "state": "VIC"
+  },
   "7000, Australia": {
     "area": "7000, Hobart, Tasmania, Australia",
     "lat": -42.8820064,
@@ -7566,6 +8036,15 @@
     "lon": 147.2670375,
     "name": "Glenorchy LFG",
     "postcode": "7010",
+    "source": "postcode",
+    "state": "TAS"
+  },
+  "7021, Australia": {
+    "area": "7021, Lauderdale, City of Clarence, Tasmania, Australia",
+    "lat": -42.9072227,
+    "lon": 147.494074,
+    "name": "Foreshore Hotel - 195.8kW",
+    "postcode": "7021",
     "source": "postcode",
     "state": "TAS"
   },
@@ -7656,6 +8135,15 @@
     "lon": 147.0295141,
     "name": "Hillwood Berries",
     "postcode": "7252",
+    "source": "postcode",
+    "state": "TAS"
+  },
+  "7253, Australia": {
+    "area": "7253, George Town, Tasmania, Australia",
+    "lat": -41.103263,
+    "lon": 146.8313589,
+    "name": "Bell Bay Solar Project",
+    "postcode": "7253",
     "source": "postcode",
     "state": "TAS"
   },
@@ -7803,6 +8291,15 @@
     "source": "postcode",
     "state": "TAS"
   },
+  "7A CALLISTER, 3064, VIC, Australia": {
+    "area": "Callister Place, Craigieburn, Melbourne, Victoria, 3064, Australia",
+    "lat": -37.5833505,
+    "lon": 144.9470136,
+    "name": "7A CALLISTER",
+    "postcode": "3064",
+    "source": "facility",
+    "state": "VIC"
+  },
   "800, Australia": {
     "area": "The Wolf, 800, Hay Street, Perth, City of Perth, Western Australia, 6000, Australia",
     "lat": -31.9525556,
@@ -7893,6 +8390,15 @@
     "source": "postcode",
     "state": "NT"
   },
+  "862, Australia": {
+    "area": "Australia, Belmont, Geelong, City of Greater Geelong, Victoria, 3216, Australia",
+    "lat": -38.165166,
+    "lon": 144.3376679,
+    "name": "BARKLY HOMESTEAD- OFFGRID",
+    "postcode": "862",
+    "source": "postcode",
+    "state": "NT"
+  },
   "870, Australia": {
     "area": "Australia, Belmont, Geelong, City of Greater Geelong, Victoria, 3216, Australia",
     "lat": -38.165166,
@@ -7966,21 +8472,34 @@
     "source": "facility",
     "state": "VIC"
   },
+  "AMYSON, 2164, NSW, Australia": null,
   "APAM Agility Warehouse, 3045, VIC, Australia": null,
   "APAM Oakland Junction, 3428, VIC, Australia": null,
   "ARYZTA Dandenong, 3175, VIC, Australia": null,
   "ATCO Gas Australia Jandakot Microgrid, 6164, WA, Australia": null,
+  "AU001 Trade St Lytton Complex, 4178, QLD, Australia": null,
   "AU058 - Bungaribee Industrial Estate - Metcash, 2766, NSW, Australia": null,
+  "AU144/178 Oakdale West 3B1, 2178, NSW, Australia": null,
+  "AU144/178 Oakdale West 3B2, 2178, NSW, Australia": null,
+  "AU146 Cumberland Industrial Estate, 2164, NSW, Australia": null,
   "AU146 Cumberlands 146 Warren Rd, 2164, NSW, Australia": null,
+  "AU157 - 33 Goodman Pl, 4172, QLD, Australia": null,
+  "AU169 Aust Post Oakdale West 2A, 2178, NSW, Australia": null,
+  "AU169 GOOD107 Goodman Oakdale West 2A, 2178, NSW, Australia": null,
   "AU172 Oakdale West WH3A, 2178, NSW, Australia": null,
+  "AU260 Rochedale Motorway Estate, 4123, QLD, Australia": null,
+  "AU265 Rochedale Motorway Estate, 4123, QLD, Australia": null,
+  "AU267 Rochedale Motorway Estate, 4123, QLD, Australia": null,
   "AU268 ROCHEDALE U1, 4123, QLD, Australia": null,
   "AU268 ROCHEDALE U3, 4123, QLD, Australia": null,
+  "AU372 Port Industry Park, 4178, QLD, Australia": null,
   "AU470 Airgate 383 Coward St, 2020, NSW, Australia": null,
   "AU491 Smithfield DC WH1, 2164, NSW, Australia": null,
   "AU491 Smithfield DC WH2, 2164, NSW, Australia": null,
   "AU525 Oakdale Industrial Estate WH1&2, 2178, NSW, Australia": null,
   "AU525 Oakdale South 1/6 Aristida, 2178, NSW, Australia": null,
   "AU525 Oakdale South 2/6 Aristida, 2178, NSW, Australia": null,
+  "AU525 Oakdale South 2B1, 2178, NSW, Australia": null,
   "AU525 Oakdale South 2B2, 2178, NSW, Australia": null,
   "AU543 Erskine Park Bdg A 33-83 Quarry, 2759, NSW, Australia": null,
   "AU543 Erskine Park Bdg E 33-83 Quarry, 2759, NSW, Australia": null,
@@ -7988,9 +8507,14 @@
   "AU543 Pack Centre B 15-23 Quarry Rd, 2759, NSW, Australia": null,
   "AU568 Oakdale Industrial Estate Masonry Plant - Solar with SGU, 2175, NSW, Australia": null,
   "AU568 Oakdale Industrial Estate WH4 - Solar with SGU, 2175, NSW, Australia": null,
+  "AU729 Chifley BP 3Federation, 3194, VIC, Australia": null,
+  "AU729 Chifley BP 5ChifleyDr, 3194, VIC, Australia": null,
+  "AU865 PortAir Industrial Estate, 2019, NSW, Australia": null,
   "AU870 17-19B Interchange Drive Eastern Creek, 2766, NSW, Australia": null,
   "AU870 Interchange Park 13 Interchange, 2766, NSW, Australia": null,
   "AU870 Interchange Pk 22 Wonderland, 2766, NSW, Australia": null,
+  "AU870 Interchange Pk 7 Interchange, 2766, NSW, Australia": null,
+  "AU875 Moorebank 4 Secombe PL, 2170, NSW, Australia": null,
   "AU903 Redbank Motorway Complex, 4301, QLD, Australia": null,
   "AU905 Redbank Motorway Complex, 4301, QLD, Australia": null,
   "AUS ZOO Steve Irwin Way, Beerwah, 4519, QLD, Australia": null,
@@ -8057,6 +8581,15 @@
   },
   "Adelaide Zoo Solar System, 5000, SA, Australia": null,
   "Adina Apartment Hotel Darwin, 800, NT, Australia": null,
+  "Advantage, 6155, WA, Australia": {
+    "area": "Advantage Pharmacy, Bay View Terrace, Claremont, Town of Claremont, Western Australia, 6010, Australia",
+    "lat": -31.9818331,
+    "lon": 115.7814022,
+    "name": "Advantage",
+    "postcode": "6155",
+    "source": "facility",
+    "state": "WA"
+  },
   "Aegis Aged Care - Anchorage, 6030, WA, Australia": null,
   "Aegis Aged Care - Carrington, 6163, WA, Australia": null,
   "Aegis Aged Care - Ellenvale, 6280, WA, Australia": null,
@@ -8069,12 +8602,19 @@
   "Aegis Shorehaven Solar PV, 6038, WA, Australia": null,
   "Aeroten Leongatha, 3953, VIC, Australia": null,
   "Agile Energy - Calvary Flora - 260kW PV w SGU, 5033, SA, Australia": null,
+  "Agile Energy - Calvary Kogarah Hospital - 200kW, 2217, NSW, Australia": null,
+  "Agile Energy - Calvary Muswellbrook - 180kW, 2333, NSW, Australia": null,
   "Agile Energy - Calvary Nulkaba - 259kW, 2325, NSW, Australia": null,
+  "Agile Energy - Centuria8Central - 323kW, 2015, NSW, Australia": null,
   "Agile Energy - CromSWG130KW, 2900, ACT, Australia": null,
+  "Agile Energy - CromwellWSF158kW, 4006, QLD, Australia": null,
+  "Agile Energy - Evermore - 277kW, 2428, NSW, Australia": null,
   "Agile Energy - NGA - 373kW, 5006, SA, Australia": null,
   "Agile Energy - SKP 0.3MW Solar NSW., 2148, NSW, Australia": null,
+  "Agile Energy CC Docklands 140kW, 3008, VIC, Australia": null,
   "Agile Energy NGR 330kW, 2112, NSW, Australia": null,
   "Agile Energy Next Gen, 2602, ACT, Australia": null,
+  "Agile Energy RFSA - 250kW, 5084, SA, Australia": null,
   "Agile Energy-CromNTH160KW, 2602, ACT, Australia": null,
   "Agnew Wind and Solar Project, 6437, WA, Australia": null,
   "Agrifresh, 6521, WA, Australia": null,
@@ -8168,6 +8708,24 @@
     "source": "facility",
     "state": "NT"
   },
+  "Alsco, 3011, VIC, Australia": {
+    "area": "Alsco, Whitehall Street, Footscray, Melbourne, City of Maribyrnong, Victoria, 3011, Australia",
+    "lat": -37.8102502,
+    "lon": 144.9011421,
+    "name": "Alsco",
+    "postcode": "3011",
+    "source": "facility",
+    "state": "VIC"
+  },
+  "Alsco, 6155, WA, Australia": {
+    "area": "Alsco, Canvale Road, Canning Vale, City of Canning, Western Australia, 6155, Australia",
+    "lat": -32.0662107,
+    "lon": 115.9229057,
+    "name": "Alsco",
+    "postcode": "6155",
+    "source": "facility",
+    "state": "WA"
+  },
   "Altimate Foods Campbellfield, 3061, VIC, Australia": null,
   "Altis Salmon Street, 3207, VIC, Australia": null,
   "Altona Salt Reduction Plant, 3018, VIC, Australia": null,
@@ -8182,8 +8740,18 @@
   },
   "Ambrisolar PV 1, 6415, WA, Australia": null,
   "Amcap Distribution Welshpool, 6106, WA, Australia": null,
+  "Americold Wivenhoe, 7320, TAS, Australia": null,
   "Americold, 4172, QLD, Australia": null,
   "Amstel Club Cranbourne, 3977, VIC, Australia": null,
+  "Anderson Dr Beresfield, 2322, NSW, Australia": {
+    "area": "Anderson Drive, Beresfield, Newcastle-Maitland, City of Newcastle, New South Wales, 2322, Australia",
+    "lat": -32.8020789,
+    "lon": 151.6497805,
+    "name": "Anderson Dr Beresfield",
+    "postcode": "2322",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Andpak, 3498, VIC, Australia": null,
   "Angelo Anestis Aquatic Centre, 2207, NSW, Australia": {
     "area": "Angelo Anestis Aquatic Centre, 98C, Preddys Road, Bexley, St George, Sydney, New South Wales, 2207, Australia",
@@ -8220,6 +8788,7 @@
     "state": "NSW"
   },
   "Ashmore Depot - QLD, 4214, QLD, Australia": null,
+  "Ashmore Shopping Centre, 4214, QLD, Australia": null,
   "Asian United Food Service - Woolner, 820, NT, Australia": {
     "area": "Asian - United Food Service, Bishop Street, Woolner, Darwin, Northern Territory, 0820, Australia",
     "lat": -12.4314015,
@@ -8288,6 +8857,8 @@
     "state": "QLD"
   },
   "Austco Polar, 3026, VIC, Australia": null,
+  "Austral Plant Services Dandenong Ext, 3175, VIC, Australia": null,
+  "Australia Post (Admin & Parcel Buildings) - Ralph St, Alexandria, 2015, NSW, Australia": null,
   "Australia Post Strawberry Hills, 2016, NSW, Australia": {
     "area": "Strawberry Hills Post Shop, 219-241, Cleveland Street, Strawberry Hills, Redfern, Sydney CBD, Sydney, New South Wales, 2016, Australia, Council of the City of Sydney",
     "lat": -33.8899091,
@@ -8297,6 +8868,10 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Australia Post: Dandenong Letters Centre (DLC), 3175, VIC, Australia": null,
+  "Australia Post: Perth PDC, 6106, WA, Australia": null,
+  "Australia Post: Sydney Gateway Facility (SGF), 2142, NSW, Australia": null,
+  "Australia Post: Sydney West Letters Facility (SWLF), 2135, NSW, Australia": null,
   "Australian Antarctic Division HQ, 7051, TAS, Australia": {
     "area": "Australian Antarctic Division, Hobart, Kingborough, Tasmania, 7050, Australia",
     "lat": -42.986893,
@@ -8355,8 +8930,82 @@
   "B J Ball Solar PV, 2145, NSW, Australia": null,
   "B&R Enclosures Solar PV, 4110, QLD, Australia": null,
   "BACB1 - Brisbane Airport, 4008, QLD, Australia": null,
+  "BARKLY HOMESTEAD- OFFGRID, 862, NT, Australia": null,
   "BAYSHORE DEVELOPMENT PTY LTD - BYRON BAY - NSW, 2481, NSW, Australia": null,
   "BERRI ENERGY PROJECT, 5342, SA, Australia": null,
+  "BEVCHAIN, 3026, VIC, Australia": null,
+  "BF DARWIN, 822, NT, Australia": {
+    "area": "Darwin, City of Darwin, Northern Territory, 0800, Australia",
+    "lat": -12.46044,
+    "lon": 130.8410469,
+    "name": "BF DARWIN",
+    "postcode": "822",
+    "source": "facility",
+    "state": "NT"
+  },
+  "BF GILLMAN, 5013, SA, Australia": {
+    "area": "Gillman, South Australia, 5013, Australia",
+    "lat": -34.8332571,
+    "lon": 138.526264,
+    "name": "BF GILLMAN",
+    "postcode": "5013",
+    "source": "facility",
+    "state": "SA"
+  },
+  "BF KUNDA PARK, 4556, QLD, Australia": {
+    "area": "Kunda Park, Sunshine Coast Regional, Queensland, 4556, Australia",
+    "lat": -26.661275,
+    "lon": 153.0401102,
+    "name": "BF KUNDA PARK",
+    "postcode": "4556",
+    "source": "facility",
+    "state": "QLD"
+  },
+  "BF MALAGA, 6090, WA, Australia": {
+    "area": "Malaga, City of Swan, Western Australia, 6090, Australia",
+    "lat": -31.8606948,
+    "lon": 115.894192,
+    "name": "BF MALAGA",
+    "postcode": "6090",
+    "source": "facility",
+    "state": "WA"
+  },
+  "BF PORT MELBOURNE, 3207, VIC, Australia": {
+    "area": "Port Melbourne, City of Port Phillip, Victoria, 3207, Australia",
+    "lat": -37.8333613,
+    "lon": 144.9219203,
+    "name": "BF PORT MELBOURNE",
+    "postcode": "3207",
+    "source": "facility",
+    "state": "VIC"
+  },
+  "BF ROCKHAMPTON, 4702, QLD, Australia": {
+    "area": "Rockhampton Ring Road, Pink Lily, Rockhampton, Rockhampton Regional, Queensland, 4702, Australia",
+    "lat": -23.3770781,
+    "lon": 150.4552819,
+    "name": "BF ROCKHAMPTON",
+    "postcode": "4702",
+    "source": "facility",
+    "state": "QLD"
+  },
+  "BF WOLLONGONG, 2527, NSW, Australia": {
+    "area": "Wollongong, New South Wales, 2500, Australia",
+    "lat": -34.4278083,
+    "lon": 150.893054,
+    "name": "BF WOLLONGONG",
+    "postcode": "2527",
+    "source": "facility",
+    "state": "NSW"
+  },
+  "BF YATALA, 4207, QLD, Australia": {
+    "area": "Yatala, Queensland, 4207, Australia",
+    "lat": -27.7352654,
+    "lon": 153.2252177,
+    "name": "BF YATALA",
+    "postcode": "4207",
+    "source": "facility",
+    "state": "QLD"
+  },
   "BG Beachside 0.2MW, 6035, WA, Australia": null,
   "BG Fields 0.23MW, 6232, WA, Australia": null,
   "BG Waters 0.14MW, 6172, WA, Australia": null,
@@ -8365,6 +9014,8 @@
   "BIDFOOD COLMSLIE, 4170, QLD, Australia": null,
   "BIDFOOD DARWIN, 822, NT, Australia": null,
   "BIDFOOD NTH PLYMPTON, 5037, SA, Australia": null,
+  "BIG W Canberra Airport 191, 2609, ACT, Australia": null,
+  "BIG W Inverell 116, 2360, NSW, Australia": null,
   "BLETCHLEY, 5255, SA, Australia": {
     "area": "Bletchley, Alexandrina Council, South Australia, 5255, Australia",
     "lat": -35.2508249,
@@ -8376,6 +9027,8 @@
   },
   "BLUE GRASS SOLAR FARM, 4413, QLD, Australia": null,
   "BOC Townsville, 4814, QLD, Australia": null,
+  "BOX HILL SHOPPING CENTRER - 624.68 kW, 2765, NSW, Australia": null,
+  "BP Shinju Broome, 6725, WA, Australia": null,
   "BRC Millbank, 4670, QLD, Australia": null,
   "BRIGHT PRINT, 2164, NSW, Australia": null,
   "BROLOS WELSHPOOL, 6106, WA, Australia": null,
@@ -8451,10 +9104,12 @@
   "Ballarat Solar Park, 3350, VIC, Australia": null,
   "Ballarat South WWTP, 3350, VIC, Australia": null,
   "Ballina Waste Water Treatment Plant, 2478, NSW, Australia": null,
+  "Balline Lucky Bay Wind Farm, 6535, WA, Australia": null,
   "Bamawm Solar Project, 3561, VIC, Australia": null,
   "Bango Wind Farm 2, feeder 999, 2586, NSW, Australia": null,
   "Bango Wind Farm, 2586, NSW, Australia": null,
   "Banimboola Hydro, 3701, VIC, Australia": null,
+  "Bankstown Courthouse, 2200, NSW, Australia": null,
   "Bankstown District, 2200, NSW, Australia": null,
   "Bannerton Solar Farm, 3549, VIC, Australia": null,
   "Banyule City Council Greensborough, 3088, VIC, Australia": {
@@ -8487,6 +9142,7 @@
     "state": "NSW"
   },
   "Barker Trailers, 3442, VIC, Australia": null,
+  "Barooga Sports Club, 3644, NSW, Australia": null,
   "Baroota 4.99MVA Solar Farm, 5495, SA, Australia": null,
   "Barossa Aquatic & Fitness Centre, Tanunda, 5352, SA, Australia": null,
   "Barramundi Group, 820, NT, Australia": null,
@@ -8506,6 +9162,15 @@
   "Bastyan Hydro Power Station, 7321, TAS, Australia": null,
   "Batchelor Pell, 845, NT, Australia": null,
   "Batchelor Solar Power Station, 845, NT, Australia": null,
+  "Bathurst, 2795, NSW, Australia": {
+    "area": "Bathurst, Bathurst Regional Council, New South Wales, 2795, Australia",
+    "lat": -33.4166482,
+    "lon": 149.5803725,
+    "name": "Bathurst",
+    "postcode": "2795",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Baxter Healthcare - Todae Solar PV - Old Toongabbie, 2146, NSW, Australia": null,
   "Baxter Laboratories, 3155, VIC, Australia": {
     "area": "Baxter Laboratories Pty Ltd, 1019, Mountain Highway, Boronia, Melbourne, Victoria, 3155, Australia",
@@ -8517,6 +9182,7 @@
     "state": "VIC"
   },
   "Bay Plaza Solar PV, 4655, QLD, Australia": null,
+  "Bayswater Downer Roads, 3153, VIC, Australia": null,
   "Bayswater Power Station, 2333, NSW, Australia": {
     "area": "Bayswater Power Station, Muswellbrook, Muswellbrook Shire Council, New South Wales, 2333, Australia",
     "lat": -32.3951272,
@@ -8549,9 +9215,20 @@
   "Beenleigh Marketplace Solar PV, 4207, QLD, Australia": null,
   "Beerenberg Hybrid, 5245, SA, Australia": null,
   "Belgrave-Hallam Rd Micro, 3803, VIC, Australia": null,
+  "Bell Bay Solar Project, 7253, TAS, Australia": null,
   "Belrose and Grange Avenue LFG Power Stations, 2085, NSW, Australia": null,
+  "Bendigo Project Solar Farm & BESS, 3557, VIC, Australia": null,
   "Bendigo Renewable Energy Facility, 3551, VIC, Australia": null,
   "Bendigo Solar Park, 3550, VIC, Australia": null,
+  "Bentinck St Bathurst, 2795, NSW, Australia": {
+    "area": "EG Australia, Bentinck Street, Bathurst, New South Wales, 2795, Australia",
+    "lat": -33.420429,
+    "lon": 149.5817276,
+    "name": "Bentinck St Bathurst",
+    "postcode": "2795",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Beros Road Wind Farm, 6518, WA, Australia": null,
   "Berrybank 2 Wind farm, 3351, VIC, Australia": null,
   "Berrybank Wind farm, 3323, VIC, Australia": null,
@@ -8585,8 +9262,20 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Big Tyre Rockville, 4350, QLD, Australia": {
+    "area": "Big Tyre, Black Gully Pathway, Rockville, Toowoomba, Toowoomba Regional, Queensland, 4350, Australia",
+    "lat": -27.5413207,
+    "lon": 151.9407945,
+    "name": "Big Tyre Rockville",
+    "postcode": "4350",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Big W Cessnock 132, 2325, NSW, Australia": null,
   "Big W Cumberland Park 551, 5041, SA, Australia": null,
+  "Big W Parkes 133, 2870, NSW, Australia": null,
+  "Bigbell, 6640, WA, Australia": null,
+  "Binduli Renewables, 6430, WA, Australia": null,
   "Bingera Sugar Mill, 4670, QLD, Australia": {
     "area": "Bingera Sugar Mill, South Kolan, Bundaberg Region, Queensland, Australia",
     "lat": -24.9296509,
@@ -8597,6 +9286,7 @@
     "state": "QLD"
   },
   "Bingo Auburn, 2144, NSW, Australia": null,
+  "Bingo MPC2, 2766, NSW, Australia": null,
   "Birkdale Fair, 4159, QLD, Australia": {
     "area": "Birkdale Fair, Mary Pleasant Drive, Birkdale, Redland City, Brisbane, Queensland, 4159, Australia",
     "lat": -27.4908924,
@@ -8607,12 +9297,22 @@
     "state": "QLD"
   },
   "Birkdale LFG, 4159, QLD, Australia": null,
+  "Bishop Druitt College, 2450, NSW, Australia": {
+    "area": "Bishop Druitt College, North Boambee Road, North Boambee Valley, Coffs Harbour, Coffs Harbour City Council, New South Wales, 2450, Australia",
+    "lat": -30.3088536,
+    "lon": 153.0858748,
+    "name": "Bishop Druitt College",
+    "postcode": "2450",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Black Rock solar farm, 3227, VIC, Australia": null,
   "Blacktown Hospital 760kW, 2148, NSW, Australia": null,
   "Blackwood Piggery PTY LTD - Biogas, 3824, VIC, Australia": null,
   "Blackwoods Carole Park, 4300, QLD, Australia": null,
   "Blaney Cold Storage, 2799, NSW, Australia": null,
   "Blayney Wind Farm, 2799, NSW, Australia": null,
+  "Blenners Transport TULLY, 4854, QLD, Australia": null,
   "Blenners Transport, 4076, QLD, Australia": {
     "area": "Blenners Transport, 25, Brickworks Place, Oxley Mews Estate, Darra, Brisbane, Queensland, 4076, Australia",
     "lat": -27.5632113,
@@ -8632,8 +9332,28 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Blue Care Carina, 4152, QLD, Australia": {
+    "area": "Azure Blue Aged Care, Rembrandt Street, Carina, City of Brisbane, Queensland, 4152, Australia",
+    "lat": -27.4754774,
+    "lon": 153.0921021,
+    "name": "Blue Care Carina",
+    "postcode": "4152",
+    "source": "facility",
+    "state": "QLD"
+  },
+  "Blue Care Mt Louisa, 4814, QLD, Australia": null,
+  "Blue Care Redcliffe, 4020, QLD, Australia": null,
   "Blue Lake Milling - Agricultural Waste, 5268, SA, Australia": null,
   "Blue Wren Yatala, 4207, QLD, Australia": null,
+  "Bluebird, 6642, WA, Australia": {
+    "area": "Bluebird Gold Mine Camp, Meekatharra, Shire of Meekatharra, Western Australia, Australia",
+    "lat": -26.7204846,
+    "lon": 118.4268165,
+    "name": "Bluebird",
+    "postcode": "6642",
+    "source": "facility",
+    "state": "WA"
+  },
   "Boco Rock Wind Farm Pty Ltd, 2630, NSW, Australia": null,
   "Bodangora Wind Farm, 2820, NSW, Australia": null,
   "Bogong Power Station, 3699, VIC, Australia": {
@@ -8675,6 +9395,15 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Borthistle Rd Gunnedah, 2380, NSW, Australia": {
+    "area": "Borthistle Road, Gunnedah, New South Wales, 2380, Australia",
+    "lat": -30.9786354,
+    "lon": 150.2373222,
+    "name": "Borthistle Rd Gunnedah",
+    "postcode": "2380",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Bossong Welshpool, 6106, WA, Australia": null,
   "Botanicca Building 3, 3121, VIC, Australia": null,
   "Bouverie Wind Turbine, 6324, WA, Australia": null,
@@ -8691,6 +9420,7 @@
   "Branxton WWTW, 2335, NSW, Australia": null,
   "Breakers Club Carpark, 2260, NSW, Australia": null,
   "Bremer Bay Wind Diesel Power Station, 6338, WA, Australia": null,
+  "Brendale Asphalt Plant, 4500, QLD, Australia": null,
   "Brett Road, EUSTON, 2737, NSW, Australia": {
     "area": "Brett Road, Euston, Balranald Shire Council, New South Wales, 2737, Australia",
     "lat": -34.5424605,
@@ -8708,6 +9438,15 @@
     "postcode": "5031",
     "source": "facility",
     "state": "SA"
+  },
+  "Brickworks Rd Bendigo East, 3550, VIC, Australia": {
+    "area": "Brickworks Road, East Bendigo, Bendigo, City of Greater Bendigo, Victoria, 3550, Australia",
+    "lat": -36.7406043,
+    "lon": 144.3098498,
+    "name": "Brickworks Rd Bendigo East",
+    "postcode": "3550",
+    "source": "facility",
+    "state": "VIC"
   },
   "Bridgewater, 3516, VIC, Australia": {
     "area": "Bridgewater, Shire of Loddon, Victoria, 3516, Australia",
@@ -8773,6 +9512,16 @@
   "Bromelton Bioenergy Plant 1, 4285, QLD, Australia": null,
   "Brooklyn LFG Power Station, 3012, VIC, Australia": null,
   "Brooklyn River Pump, 3599, VIC, Australia": null,
+  "Broome Residential College, 6725, WA, Australia": null,
+  "Broome SHS, 6725, WA, Australia": {
+    "area": "Broome Senior High School, 69, Frederick Street, Broome, Shire of Broome, Western Australia, 6725, Australia",
+    "lat": -17.9561972,
+    "lon": 122.2321576,
+    "name": "Broome SHS",
+    "postcode": "6725",
+    "source": "facility",
+    "state": "WA"
+  },
   "Brown Mountain Power Station, 2550, NSW, Australia": {
     "area": "Brown Mountain Power Station Old Generator Hall, Power Station Road, Bemboka, New South Wales, 2550, Australia",
     "lat": -36.5952435,
@@ -8842,6 +9591,15 @@
     "state": "NSW"
   },
   "Bunnings Alice Springs, 870, NT, Australia": null,
+  "Bunnings Altona, 3025, VIC, Australia": {
+    "area": "Bunnings Car Park, Watergrass Drive, Millers Junction, Altona North, Melbourne, City of Hobsons Bay, Victoria, 3025, Australia",
+    "lat": -37.8452159,
+    "lon": 144.8437267,
+    "name": "Bunnings Altona",
+    "postcode": "3025",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Bunnings Armadale, 6112, WA, Australia": {
     "area": "Bunnings Warehouse, Brigade Road, Forrestdale Business Park, Forrestdale, City of Armadale, Western Australia, 6112, Australia",
     "lat": -32.1455879,
@@ -8950,6 +9708,15 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Bunnings Burnie, 7320, TAS, Australia": {
+    "area": "Bunnings Warehouse, 1-5, Reeves Street, South Burnie, Burnie, City of Burnie, Tasmania, 7320, Australia",
+    "lat": -41.0638345,
+    "lon": 145.9143845,
+    "name": "Bunnings Burnie",
+    "postcode": "7320",
+    "source": "facility",
+    "state": "TAS"
+  },
   "Bunnings Caboolture, 4510, QLD, Australia": {
     "area": "Bunnings Warehouse, 459, Pumicestone Road, Caboolture, City of Moreton Bay, Queensland, 4510, Australia",
     "lat": -27.0437637,
@@ -8961,6 +9728,15 @@
   },
   "Bunnings Cairns Central, 4870, QLD, Australia": null,
   "Bunnings Caloundra, 4551, QLD, Australia": null,
+  "Bunnings Campbelltown, 2560, NSW, Australia": {
+    "area": "Bunnings Warehouse, Blaxland Road, Sydney, Campbelltown City Council, New South Wales, 2560, Australia",
+    "lat": -34.0636125,
+    "lon": 150.8085388,
+    "name": "Bunnings Campbelltown",
+    "postcode": "2560",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Bunnings Cannon Hill, 4170, QLD, Australia": {
     "area": "Bunnings Warehouse, 1881, Creek Road, Cannon Hill, City of Brisbane, Queensland, 4170, Australia",
     "lat": -27.4733202,
@@ -8988,6 +9764,15 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Bunnings Clyde North, 3978, VIC, Australia": {
+    "area": "Bunnings Warehouse, 46S, Hamersley Drive, Element Park, Clyde North, Melbourne, Victoria, 3978, Australia",
+    "lat": -38.0923928,
+    "lon": 145.3338976,
+    "name": "Bunnings Clyde North",
+    "postcode": "3978",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Bunnings Coffs Harbour, 2450, NSW, Australia": {
     "area": "Bunnings Warehouse, Cook Drive, Coffs Harbour, Coffs Harbour City Council, New South Wales, 2450, Australia",
     "lat": -30.3137387,
@@ -8996,6 +9781,15 @@
     "postcode": "2450",
     "source": "facility",
     "state": "NSW"
+  },
+  "Bunnings Dandenong, 3175, VIC, Australia": {
+    "area": "Bunnings Distribution Centre, 150, Bayliss Road, Dandenong South, Melbourne, City of Greater Dandenong, Victoria, 3175, Australia",
+    "lat": -38.0489923,
+    "lon": 145.2415335,
+    "name": "Bunnings Dandenong",
+    "postcode": "3175",
+    "source": "facility",
+    "state": "VIC"
   },
   "Bunnings Delacombe, 3356, VIC, Australia": {
     "area": "Bunnings Warehouse Delacombe, 307, Smythes Road, Delacombe, Ballarat, Victoria, 3356, Australia",
@@ -9043,6 +9837,15 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Bunnings Glenorchy, 7010, TAS, Australia": {
+    "area": "Bunnings Warehouse, 6, Howard Road, Glenorchy, Tasmania, 7010, Australia",
+    "lat": -42.8309325,
+    "lon": 147.2870368,
+    "name": "Bunnings Glenorchy",
+    "postcode": "7010",
+    "source": "facility",
+    "state": "TAS"
+  },
   "Bunnings Goulburn, 2580, NSW, Australia": {
     "area": "Bunnings Warehouse, Ducks Lane, Goulburn, Goulburn Mulwaree Council, New South Wales, 2580, Australia",
     "lat": -34.772665,
@@ -9079,12 +9882,39 @@
     "source": "facility",
     "state": "ACT"
   },
+  "Bunnings Hervey Bay, 4655, QLD, Australia": {
+    "area": "Bunnings Warehouse, McLiver Street, Pialba, Hervey Bay, Queensland, 4655, Australia",
+    "lat": -25.29047,
+    "lon": 152.8396553,
+    "name": "Bunnings Hervey Bay",
+    "postcode": "4655",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Bunnings Hoxton Park, 2171, NSW, Australia": {
     "area": "Bunnings, Stuart Road, Horningsea Park, Sydney, New South Wales, 2171, Australia",
     "lat": -33.9489108,
     "lon": 150.8310971,
     "name": "Bunnings Hoxton Park",
     "postcode": "2171",
+    "source": "facility",
+    "state": "NSW"
+  },
+  "Bunnings Kembla Grange, 2526, NSW, Australia": {
+    "area": "Bunnings Kembla Grange, Princes Highway, Kembla Grange, Wollongong City Council, New South Wales, 2526, Australia",
+    "lat": -34.4701609,
+    "lon": 150.8287897,
+    "name": "Bunnings Kembla Grange",
+    "postcode": "2526",
+    "source": "facility",
+    "state": "NSW"
+  },
+  "Bunnings Kempsey South, 2440, NSW, Australia": {
+    "area": "Bunnings Warehouse, Smith Street, Kempsey, New South Wales, 2440, Australia",
+    "lat": -31.0734094,
+    "lon": 152.8453978,
+    "name": "Bunnings Kempsey South",
+    "postcode": "2440",
     "source": "facility",
     "state": "NSW"
   },
@@ -9208,6 +10038,15 @@
     "source": "facility",
     "state": "SA"
   },
+  "Bunnings Narellan, 2567, NSW, Australia": {
+    "area": "Bunnings Warehouse, Grahams Hill Road, Narellan, Sydney, New South Wales, 2567, Australia",
+    "lat": -34.034696,
+    "lon": 150.7299914,
+    "name": "Bunnings Narellan",
+    "postcode": "2567",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Bunnings Nerang, 4211, QLD, Australia": {
     "area": "Bunnings Warehouse, Pappas Way West, Nerang, Gold Coast, Queensland, 4211, Australia",
     "lat": -28.0070393,
@@ -9226,6 +10065,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Bunnings North Penrith, 2750, NSW, Australia": null,
   "Bunnings Northmead, 2152, NSW, Australia": {
     "area": "Bunnings Warehouse, 1c, Redbank Road, Northmead, Sydney, New South Wales, 2152, Australia",
     "lat": -33.7971132,
@@ -9344,6 +10184,15 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Bunnings Stafford, 4053, QLD, Australia": {
+    "area": "Bunnings Warehouse, 450, Stafford Road, Stafford, Brisbane, Queensland, 4053, Australia",
+    "lat": -27.4102568,
+    "lon": 153.009118,
+    "name": "Bunnings Stafford",
+    "postcode": "4053",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Bunnings Tamworth, 2340, NSW, Australia": {
     "area": "Bunnings Warehouse, Wirraway Street, Taminda, Tamworth, New South Wales, 2340, Australia",
     "lat": -31.0885229,
@@ -9372,6 +10221,15 @@
     "state": "QLD"
   },
   "Bunnings Toowoomba West, 4350, QLD, Australia": null,
+  "Bunnings Traralgon, 3844, VIC, Australia": {
+    "area": "Bunnings Warehouse, Princes Highway, Traralgon, City of Latrobe, Victoria, 3844, Australia",
+    "lat": -38.191556,
+    "lon": 146.5606911,
+    "name": "Bunnings Traralgon",
+    "postcode": "3844",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Bunnings Underwood, 4119, QLD, Australia": {
     "area": "Bunnings Warehouse, Perrin Drive, Underwood, Brisbane, Queensland, 4119, Australia",
     "lat": -27.6189444,
@@ -9380,6 +10238,15 @@
     "postcode": "4119",
     "source": "facility",
     "state": "QLD"
+  },
+  "Bunnings Vermont South, 3133, VIC, Australia": {
+    "area": "Bunnings Warehouse, 606-634, Burwood Highway, Vermont South, Melbourne, City of Whitehorse, Victoria, 3133, Australia",
+    "lat": -37.8602784,
+    "lon": 145.1968373,
+    "name": "Bunnings Vermont South",
+    "postcode": "3133",
+    "source": "facility",
+    "state": "VIC"
   },
   "Bunnings Victor Harbor, 5211, SA, Australia": {
     "area": "Bunnings Warehouse, Down Street, McCracken, City of Victor Harbor, South Australia, 5211, Australia",
@@ -9483,9 +10350,12 @@
   "Byron Bay STP, 2481, NSW, Australia": null,
   "CARINA WEST H2E - Waste, 3549, VIC, Australia": null,
   "CBH Geraldton Port, 6530, WA, Australia": null,
+  "CCA Richlands 2, 4077, QLD, Australia": null,
   "CCA Richlands, 4077, QLD, Australia": null,
   "CCEP Darwin, 822, NT, Australia": null,
+  "CCEP Salisbury, 5106, SA, Australia": null,
   "CCGS, 6010, WA, Australia": null,
+  "CCLHD - Wyong Hospital, 2259, NSW, Australia": null,
   "CCS Media, 2128, NSW, Australia": null,
   "CEVA, 3029, VIC, Australia": {
     "area": "CEVA Logistics, 76, Whitfield Boulevard, Thompsons Base Business Park, Cranbourne West, Melbourne, City of Casey, Victoria, 3977, Australia",
@@ -9499,6 +10369,8 @@
   "CHAH01 Laverton, 3029, VIC, Australia": null,
   "CHAH02 - Charter Hall Lion Nathan, 2190, NSW, Australia": null,
   "CHAH03 - GWA Prestons, 2170, NSW, Australia": null,
+  "CHARTER HALL-ROOTYHILL 1-SOLAR-W SGU, 2766, NSW, Australia": null,
+  "CHARTER HALL-ROOTYHILL 2-SOLAR-W SGU, 2766, NSW, Australia": null,
   "CISAC Bruce ACT, 2617, ACT, Australia": {
     "area": "CISAC College St, College Street, Bruce, District of Belconnen, Australian Capital Territory, 2617, Australia",
     "lat": -35.2428905,
@@ -9516,6 +10388,7 @@
   "CKB Wastewater Treatment Plant, 6432, WA, Australia": null,
   "CMTP Solar Colac, 3250, VIC, Australia": null,
   "CMTP Solar Dandenong, 3175, VIC, Australia": null,
+  "COCHLEAR LANE COVE CARPORT, 2066, NSW, Australia": null,
   "COCHLEAR LANE COVE FRONT OFFICE, 2066, NSW, Australia": null,
   "COLE8.1 - DC Edinburgh Parks, 5111, SA, Australia": null,
   "COLEAMBALLY SOLAR PTY LTD, 2707, NSW, Australia": null,
@@ -9532,6 +10405,7 @@
   "CSIRO Food Innovation Centre - B2, B4 & B6, 3030, VIC, Australia": null,
   "CSM STATION, 6167, WA, Australia": null,
   "CSR Golden Grove 1MW, 5125, SA, Australia": null,
+  "CSR Gyprock Wetherill Park, 2164, NSW, Australia": null,
   "CUB Abbotsford, 3067, VIC, Australia": null,
   "CUB Yatala, 4207, QLD, Australia": {
     "area": "CUB Yatala Brewery, Yatala, Queensland, Australia",
@@ -9574,6 +10448,15 @@
     "state": "VIC"
   },
   "Caloundra - LFG, 4551, QLD, Australia": null,
+  "Caloundra Village, 4551, QLD, Australia": {
+    "area": "Caloundra Village Shopping Centre, Caloundra, Sunshine Coast Regional, Queensland, Australia",
+    "lat": -26.8034169,
+    "lon": 153.1341312,
+    "name": "Caloundra Village",
+    "postcode": "4551",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Calvary Christian College, 4814, QLD, Australia": {
     "area": "Calvary Christian College, Bayswater Road, Mount Louisa, Townsville, Townsville City, Queensland, 4814, Australia",
     "lat": -19.2685211,
@@ -9633,6 +10516,7 @@
   "Cape Nelson North Wind Farm, 3305, VIC, Australia": null,
   "Cape Nelson South Wind Farm, 3305, VIC, Australia": null,
   "Cape Sir William Grant Wind Farm, 3305, VIC, Australia": null,
+  "Capestone Blvd & Napier, 4509, QLD, Australia": null,
   "Capital East Solar Farm, 2621, NSW, Australia": null,
   "Capital Wind Farm, 2621, NSW, Australia": null,
   "Cardinia, 3804, VIC, Australia": {
@@ -9668,6 +10552,7 @@
     "state": "VIC"
   },
   "Casslis, 3198, VIC, Australia": null,
+  "Casswell Terrace, McDougalls Hill, 2330, NSW, Australia": null,
   "Castlemaine Health, 3450, VIC, Australia": {
     "area": "Castlemaine Health, Odgers Road, Castlemaine, Shire of Mount Alexander, Victoria, 3450, Australia",
     "lat": -37.0525494,
@@ -9769,6 +10654,7 @@
   "Charles Sturt University Bathurst Campus, 2795, NSW, Australia": null,
   "Charles Sturt University Orange 0.64MW, 2800, NSW, Australia": null,
   "Charles Sturt University Wagga Wagga 1.8MW, 2650, NSW, Australia": null,
+  "Charter Hall Eastern Creek, 2766, NSW, Australia": null,
   "Charter Hall Huntingwood, 2148, NSW, Australia": null,
   "Chempack Derrimut, 3026, VIC, Australia": null,
   "Chepstowe Wind Farm, 3351, VIC, Australia": null,
@@ -9820,6 +10706,7 @@
   "Clare Solar Farm, 4807, QLD, Australia": null,
   "Clarke Creek Wind Farm, 4705, QLD, Australia": null,
   "Clayton LFG Power Station, 3172, VIC, Australia": null,
+  "Clean Peak Energy - Huntingwood, 2148, NSW, Australia": null,
   "Clean Peak Energy - Virginia, 4014, QLD, Australia": null,
   "CleanPeak Energy - Allenstown, 4700, QLD, Australia": null,
   "CleanPeak Energy - Atherton, 4883, QLD, Australia": null,
@@ -9830,6 +10717,7 @@
   "CleanPeak Energy - Carnes Hill, 2171, NSW, Australia": null,
   "CleanPeak Energy - Currimundi Markets, 4551, QLD, Australia": null,
   "CleanPeak Energy - Dubbo, 2830, NSW, Australia": null,
+  "CleanPeak Energy - Ferntree, 3168, VIC, Australia": null,
   "CleanPeak Energy - Goulburn, 2580, NSW, Australia": null,
   "CleanPeak Energy - Griffin Plaza, 2680, NSW, Australia": null,
   "CleanPeak Energy - Highlands, 2575, NSW, Australia": null,
@@ -10041,6 +10929,8 @@
     "state": "WA"
   },
   "Collins Transport - Wingfield, 5013, SA, Australia": null,
+  "Collins Transport Eastern Creek, 2766, NSW, Australia": null,
+  "Collinsville Water Treatment Plant, 4804, QLD, Australia": null,
   "Columboola Solar Farm Hold Co Pty Ltd, 4415, QLD, Australia": null,
   "Complete Colour Cheltenham, 3192, VIC, Australia": null,
   "Complete Food Services Preston, 3072, VIC, Australia": null,
@@ -10067,9 +10957,11 @@
     "source": "facility",
     "state": "VIC"
   },
+  "Conti Orchards, 3644, VIC, Australia": null,
   "Coober Pedy- Wind- Solar, 5723, SA, Australia": null,
   "Coogee Chemicals Lot 2, 6167, WA, Australia": null,
   "Coogee Chemicals Lot 506, 6167, WA, Australia": null,
+  "Cooke's Truck Tyre Centre - Solar w SGU - South Nowra, 2541, NSW, Australia": null,
   "Cookers Oil, 3026, VIC, Australia": null,
   "Coombabah Waste Water Treatment Plant - Sewage Gas, 4216, QLD, Australia": null,
   "Coomealla Memorial Sporting Club, 2717, NSW, Australia": {
@@ -10122,6 +11014,7 @@
     "state": "QLD"
   },
   "Cootamundra Oil Seed Solar - NSW w SGU, 2590, NSW, Australia": null,
+  "Cootamundra Solar Farm, 2590, NSW, Australia": null,
   "Copeton Hydro, 2360, NSW, Australia": null,
   "Copping - LFG, 7174, TAS, Australia": null,
   "Coral Bay Wind Diesel Power Station, 6701, WA, Australia": null,
@@ -10157,6 +11050,15 @@
   },
   "Corringle Furniture, 3134, VIC, Australia": null,
   "Cosgrove LFG, 3631, VIC, Australia": null,
+  "Cosgrove, 3631, VIC, Australia": {
+    "area": "Cosgrove, City of Greater Shepparton, Victoria, 3631, Australia",
+    "lat": -36.3459213,
+    "lon": 145.6338398,
+    "name": "Cosgrove",
+    "postcode": "3631",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Costco Adelaide, 5084, SA, Australia": {
     "area": "Costco, Kilburn, Adelaide, City of Port Adelaide Enfield, South Australia, 5084, Australia",
     "lat": -34.8633053,
@@ -10242,8 +11144,10 @@
   "Crudine Ridge Wind Farm, 2850, NSW, Australia": null,
   "Crumptons Kingaroy, 4610, QLD, Australia": null,
   "Crystal Brook Depot, 5523, SA, Australia": null,
+  "Cue -Renewable Energy Facility, 6640, WA, Australia": null,
   "Cullerin Wind Farm, 2581, NSW, Australia": null,
   "Culpan Industries Pty Ltd, 3061, VIC, Australia": null,
+  "Cumberland Hydro Project - Mini, 7469, TAS, Australia": null,
   "Cummins Scoresby, 3179, VIC, Australia": {
     "area": "Cummins Sales and Service, 2, Caribbean Drive, Caribbean Business Park, Scoresby, Melbourne, City of Knox, Victoria, 3179, Australia",
     "lat": -37.9021647,
@@ -10286,6 +11190,8 @@
   },
   "DHL Arndell Park, 2148, NSW, Australia": null,
   "DHL6 Solar Horsley Park, 2175, NSW, Australia": null,
+  "DHLS Truganina WH1, 3029, VIC, Australia": null,
+  "DHLS Truganina WH2, 3029, VIC, Australia": null,
   "DHLS10 Horsley Park, 2175, NSW, Australia": null,
   "DHLS23 DHL Hazelmere, 6055, WA, Australia": null,
   "DHLS24_WA DHL Berrinba, 4117, QLD, Australia": null,
@@ -10296,6 +11202,7 @@
   "DINKO TUNA FAMERS PTY LTD-Solar-W- SGU, 5606, SA, Australia": null,
   "DORRIEN ESTATE WINERY, 5352, SA, Australia": null,
   "DUBBO SOLAR HUB PTY LTD, 2830, NSW, Australia": null,
+  "Dairy Farm Mathoura, 2710, NSW, Australia": null,
   "Dakabin LFG, 4503, QLD, Australia": null,
   "Dalby Solar Farm and BESS, 4405, QLD, Australia": null,
   "Dalrymple Rd, Shaw, 4818, QLD, Australia": {
@@ -10327,6 +11234,15 @@
   "Darlington Point North Bore, 2706, NSW, Australia": null,
   "Darlington Point Solar Farm Pty Ltd, 2706, NSW, Australia": null,
   "Darlington Point South Bore, 2706, NSW, Australia": null,
+  "Darrell Lea Ingleburn, 2565, NSW, Australia": {
+    "area": "Darrell Lea, 3, Brooks Road, Ingleburn, Sydney, New South Wales, 2565, Australia",
+    "lat": -33.9906101,
+    "lon": 150.8547316,
+    "name": "Darrell Lea Ingleburn",
+    "postcode": "2565",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Dartmouth Hydro, 3701, VIC, Australia": null,
   "Davies Bakery Broadmeadows, 3047, VIC, Australia": null,
   "De Bortoli Wines, 2680, NSW, Australia": null,
@@ -10346,6 +11262,7 @@
   "Denfood Bairnsdale wSGU, 3875, VIC, Australia": null,
   "Denham Renewable Energy Facility, 6537, WA, Australia": null,
   "Denham Wind Farm, 6537, WA, Australia": null,
+  "Deniliquin RSL Microgrid, 2710, NSW, Australia": null,
   "Denmac Darra - PV, 4076, QLD, Australia": null,
   "Denmark Community Wind Farm, 6333, WA, Australia": null,
   "Department of Justice and Community Safety Karreenga Prison, 3212, VIC, Australia": null,
@@ -10355,13 +11272,19 @@
   "Derrimut Village HMC, 3026, VIC, Australia": null,
   "Desert Knowledge Australia Solar Centre, 870, NT, Australia": null,
   "Devils Gate Hydro Power Station, 7306, TAS, Australia": null,
+  "Dexus Elders, 3023, VIC, Australia": null,
   "Dexus Hello Fresh, 3023, VIC, Australia": null,
+  "Dexus Nike, 3023, VIC, Australia": null,
+  "DiMauro Group Parabanks Shopping Centre, 5108, SA, Australia": null,
   "Diamond Energy - Peak Hill, 2869, NSW, Australia": null,
   "Diamond Energy - Trundle, 2875, NSW, Australia": null,
   "Diamond Valley Sports and Fitness Centre, 3088, VIC, Australia": null,
   "Diapur Wind Farm, 3418, VIC, Australia": null,
   "Dicker Data Centre, 2231, NSW, Australia": null,
   "Digga Australia Yatala, 4207, QLD, Australia": null,
+  "Dimmar Minto, 2566, NSW, Australia": null,
+  "Dimmar Pendle Hill, 2145, NSW, Australia": null,
+  "Dingley Village Hotel, 3172, VIC, Australia": null,
   "Diocese of Sale St Francis Beaconsfield, 3807, VIC, Australia": null,
   "Dobbie Dico, 6090, WA, Australia": null,
   "Dobinsons Spring & Suspension, 4701, QLD, Australia": null,
@@ -10435,8 +11358,13 @@
   "Dunblane Solar B, 4725, QLD, Australia": null,
   "Dundonnell Wind Farm, 3271, VIC, Australia": null,
   "Dungog Mini, 2420, NSW, Australia": null,
+  "Dural Baptist Church, 2158, NSW, Australia": null,
+  "EAST CESSNOCK BOWLING CLUB, 2325, NSW, Australia": null,
   "ECHUCA_SOLAR_VIC, 3564, VIC, Australia": null,
   "EG Berkeley 0.14MW, 2506, NSW, Australia": null,
+  "ELF FARM SUPPLIES_System 1, 2756, NSW, Australia": null,
+  "ELF FARM SUPPLIES_System 2, 2756, NSW, Australia": null,
+  "ELF FARM SUPPLIES_System 3, 2756, NSW, Australia": null,
   "ELS Environmental, 3175, VIC, Australia": null,
   "ETI Yatala, 4207, QLD, Australia": null,
   "EZY-FIT Salisbury South, 5106, SA, Australia": null,
@@ -10455,10 +11383,12 @@
   "Earthpower Technologies Sydney, 2142, NSW, Australia": null,
   "Eastern Creek 2 Renewable Energy Facility, 2766, NSW, Australia": null,
   "Eastern Creek LFG Power Station, 2766, NSW, Australia": null,
+  "Eastern Creek Quarters (Frasers), 2766, NSW, Australia": null,
   "Eastern Creek UR-3R, 2766, NSW, Australia": null,
   "Eastern Treatment Plant - Thomson Road - SG and, 3175, VIC, Australia": null,
   "Easyrest Pty Ltd, 3175, VIC, Australia": null,
   "Echuca Solar Project Pty Ltd, 3564, VIC, Australia": null,
+  "Ecolab Darra, 4076, QLD, Australia": null,
   "Edenvale Solar Park, 4413, QLD, Australia": {
     "area": "Edenvale Solar Park, 2165, Kogan-Condamine Road, Crossroads, Western Downs Regional, Queensland, 4413, Australia",
     "lat": -26.9319548,
@@ -10473,6 +11403,7 @@
   "Edmondson Park Town Centre, 2174, NSW, Australia": null,
   "Edmonton WWTP Ground Mount, 4869, QLD, Australia": null,
   "Eilbeck Ingleburn Site, 2565, NSW, Australia": null,
+  "Eilbeck cranes Moss Vale, 2577, NSW, Australia": null,
   "Eildon Hydro, 3713, VIC, Australia": null,
   "Eildon Pondage Hydro, 3713, VIC, Australia": null,
   "Eiwomple Solar & BESS, 5260, SA, Australia": null,
@@ -10531,7 +11462,11 @@
   "Endeavour Spring Farm - 249.75 kW, 2526, NSW, Australia": null,
   "Energy Bay - Artarmon Home HQ, 2064, NSW, Australia": null,
   "Energy Bay - B&J (Arndell Park), 2148, NSW, Australia": null,
+  "Energy Bay - B&J (City Kitchen), 2148, NSW, Australia": null,
   "Energy Bay - Caddens Corner, 2747, NSW, Australia": null,
+  "Energy Bay - Deception Bay, 4508, QLD, Australia": null,
+  "Energy Bay - Healius Murarrie, 4172, QLD, Australia": null,
+  "Energy Bay - Keppel Bay Plaza, 4703, QLD, Australia": null,
   "Energy Bay - McCain Foods Ballarat, 3355, VIC, Australia": null,
   "Energy Bay - WINC, 2759, NSW, Australia": null,
   "Energy Bay - Warrawong, 2502, NSW, Australia": null,
@@ -10577,9 +11512,13 @@
   "Eurong Beach Resort, 4581, QLD, Australia": null,
   "Euston Club Microgrid, 2737, NSW, Australia": null,
   "Exmouth Advanced Mini Wind Farm, 6707, WA, Australia": null,
+  "Expansive Unit Trust, 810, NT, Australia": null,
   "Extrusions Australia, 3029, VIC, Australia": null,
   "FJ Lenne Ardmona, 3629, VIC, Australia": null,
+  "FLATROCKS_WF1 - Wind Farm, 6395, WA, Australia": null,
+  "FLYERS CREEK WIND FARM, 2791, NSW, Australia": null,
   "FS Energy, 3030, VIC, Australia": null,
+  "FWLHD Broken Hill Hospital, 2880, NSW, Australia": null,
   "Factory 7, 315 Cooper Street, Epping, 3076, VIC, Australia": null,
   "Fairfield East, 2165, NSW, Australia": {
     "area": "Fairfield East, Sydney, New South Wales, 2165, Australia",
@@ -10639,6 +11578,7 @@
   "Flavour Makers Governor Road, 3195, VIC, Australia": null,
   "Flavour Makers Woodlands Drive East, 3195, VIC, Australia": null,
   "Flavour Makers Woodlands Drive West, 3195, VIC, Australia": null,
+  "Fletchers International Grain Terminal, 2830, NSW, Australia": null,
   "Flinders Island Power Station, 7255, TAS, Australia": {
     "area": "Flinders Island Power Station, Whitemark, Flinders Council, Tasmania, 7255, Australia",
     "lat": -40.1162177,
@@ -10658,7 +11598,17 @@
     "source": "facility",
     "state": "SA"
   },
+  "Foreshore Hotel - 195.8kW, 7021, TAS, Australia": null,
   "Foreshore Power Station, 2300, NSW, Australia": null,
+  "Fortnum, 6642, WA, Australia": {
+    "area": "Fortnum Gold Mine, Peak Hill, Western Australia, 6642, Australia",
+    "lat": -25.3288414,
+    "lon": 118.3557057,
+    "name": "Fortnum",
+    "postcode": "6642",
+    "source": "facility",
+    "state": "WA"
+  },
   "Forza Capital Browning Street, 4101, QLD, Australia": null,
   "Fosterville Test Facility, 3571, VIC, Australia": null,
   "Fragapane Farms, 3030, VIC, Australia": null,
@@ -10671,6 +11621,7 @@
   "Freecor7MainPIA, 4655, QLD, Australia": null,
   "Freedom Foods, 3630, VIC, Australia": null,
   "Fremantle City Cold Stores, 6163, WA, Australia": null,
+  "Fresenius Smithfield, 2164, NSW, Australia": null,
   "Frewstall, 3380, VIC, Australia": null,
   "Friendly Society Private HospitalBundaberg, 4670, QLD, Australia": null,
   "Fryer St, North Ward, 4810, QLD, Australia": {
@@ -10697,6 +11648,8 @@
   "GENELEC Newbridge Rd, Moorebank, 2170, NSW, Australia": null,
   "GL Maryborough - QLD, 4650, QLD, Australia": null,
   "GL Prince Charles, 4032, QLD, Australia": null,
+  "GLOBAL FOOD & WINE (BRIS), 4012, QLD, Australia": null,
+  "GME Winston Hills, 2153, NSW, Australia": null,
   "GPE - Henkel Kilsyth, 3137, VIC, Australia": null,
   "GPE - Henkel Seven Hills, 2147, NSW, Australia": null,
   "GPT Chirnside Park, 3116, VIC, Australia": null,
@@ -10713,6 +11666,7 @@
   "GVW - Shepparton WTP, 3630, VIC, Australia": null,
   "GVW - Tatura WMF, 3616, VIC, Australia": null,
   "GWKEWDER, 3081, VIC, Australia": null,
+  "Galintel Coffs Harbour, 2450, NSW, Australia": null,
   "Galipo Foods Dry Creek, 5094, SA, Australia": null,
   "Galiwinku (Elcho Island) Solar Power Station, 822, NT, Australia": null,
   "Gangarri Solar Farm, 4419, QLD, Australia": {
@@ -10785,6 +11739,7 @@
   "Gilmac Balaklava, 5461, SA, Australia": null,
   "Gilmac York, 6302, WA, Australia": null,
   "Gilmac-Wagin, 6315, WA, Australia": null,
+  "Gilston Rd & New St Nerang, 4211, QLD, Australia": null,
   "Gin Gin and Dry, 4671, QLD, Australia": null,
   "Giofrelle Nominees- Farm 4 Dam, 3549, VIC, Australia": null,
   "Giofrelle Nominees- HV shed, 3549, VIC, Australia": null,
@@ -10813,6 +11768,7 @@
     "source": "facility",
     "state": "ACT"
   },
+  "Glass Expansion, 3207, VIC, Australia": null,
   "Glen Eira City Council - Warrawee, 3165, VIC, Australia": null,
   "Glen Eira Sports and Aquatic Centre Bentleigh East wSGU VIC, 3165, VIC, Australia": null,
   "Glenbarry Rd Campbellfield, 3061, VIC, Australia": {
@@ -10882,12 +11838,29 @@
     "state": "VIC"
   },
   "Good Shepherd Rasmussen, 4815, QLD, Australia": null,
+  "Goodman AU184 Oakdale West EBOS 3C2, 2178, NSW, Australia": null,
+  "Goodman Amazon Kemps Creek, 2178, NSW, Australia": null,
+  "Goodman IMAG, 3029, VIC, Australia": null,
+  "Goodman Lot 12 Logistics Drive, 3029, VIC, Australia": null,
   "Goodman McCormick Solar System, 3194, VIC, Australia": null,
+  "Goodman Nursery Avenue, 3169, VIC, Australia": null,
+  "Goodman Port Melbourne Store E, 3207, VIC, Australia": null,
+  "Goodman Roberts DC Australia Post, 2190, NSW, Australia": null,
   "Googong Micro, 2620, NSW, Australia": null,
   "Goonoo Feed Mill, 4702, QLD, Australia": null,
   "Goonumbla Solar Farm, 2870, NSW, Australia": null,
   "Gordon Hydro Power Station, 7139, TAS, Australia": null,
+  "Gosford Hospital, 2250, NSW, Australia": {
+    "area": "Gosford Hospital, Holden Street, Gosford, Central Coast Council, New South Wales, 2250, Australia",
+    "lat": -33.4203425,
+    "lon": 151.3395148,
+    "name": "Gosford Hospital",
+    "postcode": "2250",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Goulburn Bioenergy Project, 2580, NSW, Australia": null,
+  "Goyder South Wind Farm 1A, 5417, SA, Australia": null,
   "Grace Worldwide Seven Hills, 2147, NSW, Australia": null,
   "Grafton District Services Club, 2460, NSW, Australia": {
     "area": "Grafton District Services Club, Fry Street, Grafton, Clarence Valley Council, New South Wales, 2460, Australia",
@@ -10899,14 +11872,25 @@
     "state": "NSW"
   },
   "Grand Central Shopping Centre Solar Farm, 4570, QLD, Australia": null,
+  "Grand Plaza, 4118, QLD, Australia": {
+    "area": "Grand Plaza, 27-499, Browns Plains Road, Browns Plains, Brisbane, Queensland, 4118, Australia",
+    "lat": -27.6626832,
+    "lon": 153.040771,
+    "name": "Grand Plaza",
+    "postcode": "4118",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Grange Avenue LFG Power Station, 2765, NSW, Australia": null,
   "Granny Smith Mine 1, 6440, WA, Australia": null,
   "Granville Harbour Wind Farm, 7469, TAS, Australia": null,
   "Grape Co Pty Ltd, 3505, VIC, Australia": null,
   "Grasmere Wind Farm, 6330, WA, Australia": null,
+  "Great Western Harristown, 4350, QLD, Australia": null,
   "Green Camel Cobbitty, 2570, NSW, Australia": null,
   "Green Gold 2, 5342, SA, Australia": null,
   "Green Gold 3, 5342, SA, Australia": null,
+  "Green Peak Energy - Agboss Albury, 2640, NSW, Australia": null,
   "Green Peak Energy Essendon, 3040, VIC, Australia": null,
   "Greenough River Solar Farm, 6530, WA, Australia": {
     "area": "Greenough River Solar Farm, Ellendale, City of Greater Geraldton, Western Australia, 6532, Australia",
@@ -10917,6 +11901,9 @@
     "source": "facility",
     "state": "WA"
   },
+  "Greentech 1 Solar Farm & BESS, 3385, VIC, Australia": null,
+  "Greentech 4 Solar Farm & BESS, 3465, VIC, Australia": null,
+  "Greentech 8 Solar Farm & BESS, 3570, VIC, Australia": null,
   "Greenway, 2164, NSW, Australia": {
     "area": "Greenway, Greenway Drive, Kirribilli, Lower North Shore, Sydney, New South Wales, 2061, Australia",
     "lat": -33.8442702,
@@ -10975,7 +11962,10 @@
     "state": "QLD"
   },
   "Gympie Timber Wood Waste Power Station 1, 4570, QLD, Australia": null,
+  "HBCC Civic Centre Altona, 3018, VIC, Australia": null,
+  "HBCC Swim Centre Altona, 3025, VIC, Australia": null,
   "HD Plasma & Laser Cutting Services - Solar [w SGU], 6163, WA, Australia": null,
+  "HERTZ AIRPORT (BRIS), 4008, QLD, Australia": null,
   "HJ Heinz Solar System, 2650, NSW, Australia": null,
   "HMC Marsden Park, 9 Hollinsworth Rd, 2765, NSW, Australia": null,
   "HMGEM Dandenong South, 3175, VIC, Australia": null,
@@ -10988,10 +11978,28 @@
     "source": "facility",
     "state": "VIC"
   },
+  "HOA, 3170, VIC, Australia": {
+    "area": "Thai Hoa Long Co, Buckingham Avenue, Springvale, Melbourne, City of Greater Dandenong, Victoria, 3171, Australia",
+    "lat": -37.9488938,
+    "lon": 145.1511298,
+    "name": "HOA",
+    "postcode": "3170",
+    "source": "facility",
+    "state": "VIC"
+  },
   "HPS Transport, 5010, SA, Australia": null,
   "HS Wetherill Park 0.2MW, 2164, NSW, Australia": null,
   "HSV Clayton South, 3169, VIC, Australia": null,
   "HUGHENDEN SOLAR FARM, 4821, QLD, Australia": null,
+  "Hackett Terrace, Richmond Hill, 4820, QLD, Australia": {
+    "area": "Hackett Terrace, Richmond Hill, Charters Towers, Queensland, 4820, Australia",
+    "lat": -20.0687477,
+    "lon": 146.2555571,
+    "name": "Hackett Terrace, Richmond Hill",
+    "postcode": "4820",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Hahndorf Wastewater Treatment Plant Reserve (HA5088), 5245, SA, Australia": null,
   "Hale School, 6019, WA, Australia": {
     "area": "Hale School, 160, Hale Road, Wembley Downs, City of Stirling, Western Australia, 6019, Australia",
@@ -11010,6 +12018,7 @@
   "Hampton Park Renewable Energy Facility, 3976, VIC, Australia": null,
   "Hampton Wind Park, 2790, NSW, Australia": null,
   "Happy Valley Water Filtration Plant (HAVWTP), 5159, SA, Australia": null,
+  "Harbourside Woree, 4868, QLD, Australia": null,
   "Hardchrome Engineering, 3810, VIC, Australia": null,
   "Harvey, 6220, WA, Australia": {
     "area": "Harvey, Shire of Harvey, Western Australia, 6220, Australia",
@@ -11128,6 +12137,15 @@
     "state": "QLD"
   },
   "Hobart Landfill, 7001, TAS, Australia": null,
+  "Holbeche Rd Arndell Park, 2148, NSW, Australia": {
+    "area": "Holbeche Road, Arndell Park, Sydney, Blacktown City Council, New South Wales, 2148, Australia",
+    "lat": -33.7883462,
+    "lon": 150.8795547,
+    "name": "Holbeche Rd Arndell Park",
+    "postcode": "2148",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Hollywood Plaza - Salisbury Downs, 5108, SA, Australia": {
     "area": "Hollywood Plaza, Winzor Street, Salisbury Downs, Adelaide, City of Salisbury, South Australia, 5108, Australia",
     "lat": -34.767979,
@@ -11138,6 +12156,7 @@
     "state": "SA"
   },
   "Holmwood Highgate Loganholme, 4129, QLD, Australia": null,
+  "Homart Pharmaceuticals - Rydalmere, 2116, NSW, Australia": null,
   "Homebush Photovoltaic Power Station, 2140, NSW, Australia": null,
   "Homeworld, 6163, WA, Australia": null,
   "Hope Island Marketplace, 4212, QLD, Australia": {
@@ -11157,6 +12176,15 @@
   "Hornsdale Wind Farm Stage 1, 5491, SA, Australia": null,
   "Hornsdale Wind Farm Stage 2, 5491, SA, Australia": null,
   "Hornsdale Wind Farm Stage 3, 5491, SA, Australia": null,
+  "Horsburgh Drive, Altona North, 3025, VIC, Australia": {
+    "area": "Horsburgh Drive, Altona North, Melbourne, City of Hobsons Bay, Victoria, 3025, Australia",
+    "lat": -37.8437113,
+    "lon": 144.8100281,
+    "name": "Horsburgh Drive, Altona North",
+    "postcode": "3025",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Houghton Wines, 6056, WA, Australia": {
     "area": "Houghton Wines Nannup, LOT 10460, Vasse Highway, Nannup, Western Australia, 6275, Australia",
     "lat": -34.0038739,
@@ -11216,6 +12244,7 @@
     "state": "QLD"
   },
   "IGA Walgett - 198.32kW, 2832, NSW, Australia": null,
+  "IKAD Sparks Rd w SGU, 6166, WA, Australia": null,
   "IKEA Canberra, 2609, ACT, Australia": {
     "area": "IKEA, 1030, Majura Road, Canberra, Australian Capital Territory, 2609, Australia",
     "lat": -35.2948179,
@@ -11320,6 +12349,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Ingenia Solar PV, 3644, VIC, Australia": null,
   "Ingleburn Stage 1, 2565, NSW, Australia": {
     "area": "Ingleburn, Sydney, Campbelltown City Council, New South Wales, 2565, Australia",
     "lat": -33.9983333,
@@ -11338,6 +12368,8 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Interfine Investments Pty Ltd - 384kW, 2086, NSW, Australia": null,
+  "Interfine Investments Pty Ltd - 416kW, 2086, NSW, Australia": null,
   "Interpack Solar System, 3023, VIC, Australia": null,
   "Intertek, 6109, WA, Australia": null,
   "Investec Elizabeth Street, 3121, VIC, Australia": null,
@@ -11372,11 +12404,13 @@
   "Ivankovich Farms, 6220, WA, Australia": null,
   "J.J. Dwyer(Wholesale) Proprietary Limited, 3875, VIC, Australia": null,
   "JAP, 5690, SA, Australia": null,
+  "JCs Quality Foods, 3180, VIC, Australia": null,
   "JDJB Cobb Highway, 2710, NSW, Australia": null,
   "JL King & Co 150kW, 3555, VIC, Australia": null,
   "JT JOHNSON, 5373, SA, Australia": null,
   "Jabiru Solar Project, 886, NT, Australia": null,
   "Jacks Gully LFG Power Station, 2570, NSW, Australia": null,
+  "Jalna Feedlot, 3213, VIC, Australia": null,
   "Jamestrong Packaging Kyabram, 3620, VIC, Australia": null,
   "Jandakot Biogass, 6164, WA, Australia": null,
   "Jardan Australia 400, 3179, VIC, Australia": null,
@@ -11498,6 +12532,16 @@
   "Karama Shopping Centre, 812, NT, Australia": null,
   "Karangi WTP, 2450, NSW, Australia": null,
   "Kareeya Power Station, 4854, QLD, Australia": null,
+  "Karingal Hub, Frankston, 3199, VIC, Australia": {
+    "area": "Karingal Hub Shopping Centre, Ferndale Drive, Frankston, Melbourne, City of Frankston, Victoria, 3199, Australia",
+    "lat": -38.1525714,
+    "lon": 145.1662982,
+    "name": "Karingal Hub, Frankston",
+    "postcode": "3199",
+    "source": "facility",
+    "state": "VIC"
+  },
+  "Karratha Leisureplex PV System, 6714, WA, Australia": null,
   "Karratha Senior High School - WA, 6714, WA, Australia": {
     "area": "Karratha Senior High School, Dampier Road, Baynton, Karratha, City of Karratha, Western Australia, 6714, Australia",
     "lat": -20.7465878,
@@ -11511,6 +12555,7 @@
   "Karratha Solar Power No 1 Pty Ltd, 6714, WA, Australia": null,
   "Katamatite Project Pty Ltd, 3649, VIC, Australia": null,
   "Katherine Solar Power Station, 850, NT, Australia": null,
+  "Kathleen Valley Power Station, 6437, WA, Australia": null,
   "Katunga Fresh VIC, 3640, VIC, Australia": null,
   "Keepit Power Station, 2340, NSW, Australia": {
     "area": "Keepit Power Station, Keepit Dam Road, Keepit, New South Wales, 2340, Australia",
@@ -11521,6 +12566,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Kelly Consolidated Rangeville, 4350, QLD, Australia": null,
   "Kelvin Road LFG, 6110, WA, Australia": null,
   "Kemps Creek Witron System, 2178, NSW, Australia": null,
   "Kennedy Energy Park - Wind and Solar, 4821, QLD, Australia": null,
@@ -11628,6 +12674,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "LAVA BLUE (BRIS), 4161, QLD, Australia": null,
   "LDK Greenway Pty Ltd, 2900, ACT, Australia": null,
   "LGP Red Hill Facility, 6056, WA, Australia": null,
   "LGP Tamala Park Facility, 6056, WA, Australia": null,
@@ -11664,6 +12711,15 @@
   "Lake Bonney Wind Farm Stage 2, 5280, SA, Australia": null,
   "Lake Bonney Wind Farm Stage 3, 5280, SA, Australia": null,
   "Lake Echo Hydro Power Station, 7140, TAS, Australia": null,
+  "Lake Edge Resort, 2647, NSW, Australia": {
+    "area": "Lake Edge Resort, Melbourne Street, Mulwala, New South Wales, 2647, Australia",
+    "lat": -35.9943284,
+    "lon": 146.001814,
+    "name": "Lake Edge Resort",
+    "postcode": "2647",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Lake Fyans 96023, 3381, VIC, Australia": null,
   "Lake Joondalup Baptist College, 6027, WA, Australia": {
     "area": "Lake Joondalup Baptist College, Kennedya Drive, Joondalup, City of Joondalup, Western Australia, 6027, Australia",
@@ -11751,8 +12807,10 @@
     "source": "facility",
     "state": "WA"
   },
+  "Leinster Solar Farm, 6437, WA, Australia": null,
   "Lemonthyme Hydro Power Station, 7304, TAS, Australia": null,
   "Lendlease Sunshine Plaza, 4558, QLD, Australia": null,
+  "Lenne's Orchards Coolstore Armona, 3629, VIC, Australia": null,
   "Leongatha Bioenergy Plant, 3953, VIC, Australia": null,
   "Leppington Railway Station, 2179, NSW, Australia": {
     "area": "Leppington, Rickard Road, Leppington, Sydney, New South Wales, 2179, Australia",
@@ -11780,6 +12838,9 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Lindsay Australia Acacia Ridge, 4110, QLD, Australia": null,
+  "Lindsay Australia Erskine Park, 2759, NSW, Australia": null,
+  "Lindsay Australia Mareeba, 4880, QLD, Australia": null,
   "Lindt Marsden Park, 2765, NSW, Australia": {
     "area": "Lindt Warehouse and Factory Shop, 16, Hollinsworth Road, Marsden Park, Sydney, Blacktown City Council, New South Wales, 2765, Australia",
     "lat": -33.7171297,
@@ -11789,6 +12850,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Linfox Willawong, 4110, QLD, Australia": null,
   "Lion-Beer, Spirit & Wine Pty Ltd - 650.4KW, 3220, VIC, Australia": null,
   "Lismore Central, 2480, NSW, Australia": {
     "area": "Lismore Central Shopping Centre, Keen Street, Lismore, Lismore City Council, New South Wales, 2480, Australia",
@@ -11841,10 +12903,28 @@
     "state": "QLD"
   },
   "Lockyer Valley Council - Gatton Showgrounds - Solar PV, 4343, QLD, Australia": null,
+  "Logan Rd Upper Mount Gravatt, 4122, QLD, Australia": {
+    "area": "Logan Road, Upper Mount Gravatt, Brisbane, Queensland, 4122, Australia",
+    "lat": -27.5628422,
+    "lon": 153.0854471,
+    "name": "Logan Rd Upper Mount Gravatt",
+    "postcode": "4122",
+    "source": "facility",
+    "state": "QLD"
+  },
   "LoganholmeWWTP, 4129, QLD, Australia": null,
   "Longreach SF, 4730, QLD, Australia": null,
   "Lostock Micro, 2311, NSW, Australia": null,
   "Loveday Solar & BESS, 5345, SA, Australia": null,
+  "Loxton, 5333, SA, Australia": {
+    "area": "Loxton, South Australia, 5333, Australia",
+    "lat": -34.4511348,
+    "lon": 140.5696644,
+    "name": "Loxton",
+    "postcode": "5333",
+    "source": "facility",
+    "state": "SA"
+  },
   "Lucas Heights 1 LFG Power Station, 2234, NSW, Australia": null,
   "Lundavra Biogas - Agricultural Waste, 4390, QLD, Australia": null,
   "Lyell McEwin Hospital Solar PV, 5112, SA, Australia": null,
@@ -11871,6 +12951,15 @@
   },
   "MBC Microgrid, 2731, NSW, Australia": null,
   "MC Herd Corio, 3214, VIC, Australia": null,
+  "MEL8, 3064, VIC, Australia": {
+    "area": "Amazon Sortation Centre (MEL8), Craigieburn, Melbourne, City of Hume, Victoria, 3064, Australia",
+    "lat": -37.5844959,
+    "lon": 144.9479566,
+    "name": "MEL8",
+    "postcode": "3064",
+    "source": "facility",
+    "state": "VIC"
+  },
   "MELBOURNE 5, 3023, VIC, Australia": {
     "area": "5, Lorimer Street, Caroline Springs, Melbourne, City of Melton, Victoria, 3023, Australia",
     "lat": -37.7341703,
@@ -11890,8 +12979,11 @@
   "MRL Sleat Rd Applecross, 6153, WA, Australia": null,
   "MRL-Barrington, 6163, WA, Australia": null,
   "MSUII, 6434, WA, Australia": null,
+  "MUR THAI FOOD CO PTY LTD, 2566, NSW, Australia": null,
+  "MWSC Microgrid, 2647, NSW, Australia": null,
   "Macarthur Resource Recovery Park - Biomass based components of MSW, 2570, NSW, Australia": null,
   "Macarthur Wind Farm, 3286, VIC, Australia": null,
+  "Macgregor Home Centre - Solar _ PV w/SGU, 4109, QLD, Australia": null,
   "Mackintosh Hydro Power Station, 7321, TAS, Australia": null,
   "Macknade Mill, 4850, QLD, Australia": {
     "area": "Macknade Sugar Mill, Macknade, Hinchinbrook Shire, Queensland, Australia",
@@ -11926,6 +13018,16 @@
   },
   "Manildra Prop Pty ltd as trustee for Manildra Asset Trust, 2865, NSW, Australia": null,
   "Maningrida Solar Power Station, 822, NT, Australia": null,
+  "Manningham Civic Centre, 3108, VIC, Australia": {
+    "area": "Manningham Civic Centre, 699, Doncaster Road, Doncaster, Melbourne, City of Manningham, Victoria, 3108, Australia",
+    "lat": -37.7864798,
+    "lon": 145.132592,
+    "name": "Manningham Civic Centre",
+    "postcode": "3108",
+    "source": "facility",
+    "state": "VIC"
+  },
+  "Mannum 2 Solar Farm, 5238, SA, Australia": null,
   "Mannum Adelaide Pumping Station No 2 (MAPL2), 5237, SA, Australia": null,
   "Mannum Adelaide Pumping Station No 3 (MAPL3), 5237, SA, Australia": null,
   "Mannum Solar Farm, 5238, SA, Australia": null,
@@ -11952,6 +13054,7 @@
     "state": "QLD"
   },
   "Marist College Emerald w SGU, 4720, QLD, Australia": null,
+  "Marketlane Subiaco, 6008, WA, Australia": null,
   "Marland Mushrooms, 4207, QLD, Australia": null,
   "Marleyspoon, 2164, NSW, Australia": null,
   "Marlin Coast WWTP Ground Mount, 4878, QLD, Australia": null,
@@ -11967,6 +13070,7 @@
     "state": "NSW"
   },
   "Mars Chocolate Australia, 3355, VIC, Australia": null,
+  "Marsh Alliance Carole Park, 4300, QLD, Australia": null,
   "Marshall Notaras Hardwoods, 2460, NSW, Australia": null,
   "Marshall Pine Products, 3217, VIC, Australia": null,
   "Martin Brower Distribution Facility, 2164, NSW, Australia": null,
@@ -11988,6 +13092,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Maryborough Community Aged Care, 4650, QLD, Australia": null,
   "Maryborough District Health Service, 3465, VIC, Australia": {
     "area": "Maryborough District Health Service, Florence Lane, Maryborough, Shire of Central Goldfields, Victoria, 3465, Australia",
     "lat": -37.0448584,
@@ -12096,6 +13201,15 @@
   "Medline International Two, 2765, NSW, Australia": null,
   "Meekatharra Solar Farm, 6642, WA, Australia": null,
   "Meekatharra WTP, 6642, WA, Australia": null,
+  "Melbourne Gateway Facility, 3045, VIC, Australia": {
+    "area": "Melbourne Gateway Facility, 13 - 23, Apac Drive, Melbourne Airport, Melbourne, Victoria, 3045, Australia",
+    "lat": -37.6793107,
+    "lon": 144.8543043,
+    "name": "Melbourne Gateway Facility",
+    "postcode": "3045",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Melbourne Museum, 3053, VIC, Australia": {
     "area": "Melbourne Museum, 11, Nicholson Street, Carlton, Melbourne, City of Melbourne, Victoria, 3053, Australia",
     "lat": -37.8032298,
@@ -12117,6 +13231,7 @@
   },
   "Melton Recycled Water Plant - Waste and, 3024, VIC, Australia": null,
   "Menai High School Solar - Illawong, 2234, NSW, Australia": null,
+  "Menangle Race Club, 2563, NSW, Australia": null,
   "Meramist Caboolture, 4510, QLD, Australia": null,
   "Mercy College Mackay, 4740, QLD, Australia": {
     "area": "Mercy College, Juliet Street, South Mackay, Mackay, Mackay Regional, Queensland, 4740, Australia",
@@ -12203,6 +13318,16 @@
   "Mineral Resources CSI Kwinana, 6167, WA, Australia": null,
   "Mineral Resources PIHA Kwinana WA, 6167, WA, Australia": null,
   "Minjilang (Croker Island) Solar Power Station, 822, NT, Australia": null,
+  "Minnippi Quarter, 4152, QLD, Australia": {
+    "area": "Minnippi Quarter, 193, Tingalpa, Carina, City of Brisbane, Queensland, 4152, Australia",
+    "lat": -27.488117,
+    "lon": 153.1102929,
+    "name": "Minnippi Quarter",
+    "postcode": "4152",
+    "source": "facility",
+    "state": "QLD"
+  },
+  "Minto PPA, 2566, NSW, Australia": null,
   "Minto System 1, 2566, NSW, Australia": null,
   "Minto System 2, 2566, NSW, Australia": null,
   "Minyerri Solar Power Station, 852, NT, Australia": null,
@@ -12241,6 +13366,7 @@
   "Monash University Power Station Peninsula, 3199, VIC, Australia": null,
   "Monash University Solar Power Station - Clayton, 3168, VIC, Australia": null,
   "Moonta WWTP, 5558, SA, Australia": null,
+  "Moora Energy Windfarm, 6507, WA, Australia": null,
   "Moorabbin Airport, 3194, VIC, Australia": {
     "area": "Moorabbin Airport, 66, Bundora Parade, Moorabbin Airport, Melbourne, City of Kingston, Victoria, 3194, Australia",
     "lat": -37.9784574,
@@ -12273,6 +13399,15 @@
   "Morpeth WWTW, 2321, NSW, Australia": null,
   "Mortlake South Wind Farm, 3265, VIC, Australia": null,
   "Mortons Lane Windfarm Pty Ltd, 3293, VIC, Australia": null,
+  "Morwell Bowling Club, 3840, VIC, Australia": {
+    "area": "Morwell Bowling Club, Hazelwood Road, Morwell, City of Latrobe, Victoria, 3840, Australia",
+    "lat": -38.2419699,
+    "lon": 146.3932456,
+    "name": "Morwell Bowling Club",
+    "postcode": "3840",
+    "source": "facility",
+    "state": "VIC"
+  },
   "Mossman Mill, 4873, QLD, Australia": {
     "area": "Mossman Sugar Mill, Mossman, Douglas Shire, Queensland, 4873, Australia",
     "lat": -16.4583766,
@@ -12292,6 +13427,15 @@
     "state": "QLD"
   },
   "Mount Barker Springs PV, 5251, SA, Australia": null,
+  "Mount Druitt Courthouse, 2770, NSW, Australia": {
+    "area": "Mount Druitt Court House, North Parade, Mount Druitt, Sydney, Blacktown City Council, New South Wales, 2770, Australia",
+    "lat": -33.7693608,
+    "lon": 150.8223252,
+    "name": "Mount Druitt Courthouse",
+    "postcode": "2770",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Mount Emerald Wind farm Pty Ltd, 4880, QLD, Australia": null,
   "Mount Magnet WTP - Solar PV, 6638, WA, Australia": null,
   "Mount Majura Solar Farm, 2609, ACT, Australia": null,
@@ -12336,6 +13480,7 @@
     "state": "SA"
   },
   "Mt Gellibrand Wind Farm, 3241, VIC, Australia": null,
+  "Mt Keith Solar Farm, 6646, WA, Australia": null,
   "Mt Liebig Solar Power Station, 872, NT, Australia": null,
   "Mt Mercer Wind farm Pty Ltd, 3352, VIC, Australia": null,
   "Mt Millar Wind Farm Pty Ltd, 5602, SA, Australia": null,
@@ -12358,6 +13503,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Mt Zero WTP 96021, 3401, VIC, Australia": null,
   "Mugga Lane - LFG, 2609, ACT, Australia": null,
   "Mugga Lane LFG Power Station, 2620, ACT, Australia": null,
   "Mugga Lane Solar Park, 2904, ACT, Australia": {
@@ -12415,6 +13561,15 @@
   },
   "Murray Rose No5, 2127, NSW, Australia": null,
   "Murray Valley Meats Strathfield Solar PV, 2136, NSW, Australia": null,
+  "Murrumba Downs, 4503, QLD, Australia": {
+    "area": "Murrumba Downs, Brisbane, City of Moreton Bay, Queensland, Australia",
+    "lat": -27.2645498,
+    "lon": 153.0065013,
+    "name": "Murrumba Downs",
+    "postcode": "4503",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Mushroom Composters, 2330, NSW, Australia": null,
   "Musselroe Wind Farm Pty Ltd, 7264, TAS, Australia": null,
   "My Centre Nerang, 4211, QLD, Australia": {
@@ -12426,6 +13581,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "My Muscle Chef - Yennora, 2161, NSW, Australia": null,
   "Myalben Photovoltaic, 2360, NSW, Australia": null,
   "Myponga Depot (MYPONGA), 5202, SA, Australia": null,
   "NAWMA - LFG, 5114, SA, Australia": null,
@@ -12436,7 +13592,9 @@
   "NEXTDC M1 401kWp, 3207, VIC, Australia": null,
   "NLSC North Lakes 0.36MW, 4509, QLD, Australia": null,
   "NPS, 5700, SA, Australia": null,
+  "NSW Ports Enfield H2 Rooftop, 2136, NSW, Australia": null,
   "NUMURKAH SOLAR FARM PTY LTD, 3636, VIC, Australia": null,
+  "Nambour Selangor Private Hospital - 189.5kW, 4560, QLD, Australia": null,
   "Naracoorte Cogeneration - Biogas, 5271, SA, Australia": null,
   "Narangba, 4504, QLD, Australia": {
     "area": "Narangba, City of Moreton Bay, Queensland, 4504, Australia",
@@ -12456,6 +13614,16 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Narrakine Hay, 6391, WA, Australia": null,
+  "Narrandera, 2700, NSW, Australia": {
+    "area": "Narrandera, Narrandera Shire Council, New South Wales, 2700, Australia",
+    "lat": -34.7483333,
+    "lon": 146.5511111,
+    "name": "Narrandera",
+    "postcode": "2700",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Narromine Solar Farm, 2821, NSW, Australia": {
     "area": "Dubbo Solar Hub (Narromine Solar Farm), Narromine, New South Wales, 2821, Australia",
     "lat": -32.219485,
@@ -12466,6 +13634,15 @@
     "state": "NSW"
   },
   "National Ceramics Rutherford, 2320, NSW, Australia": null,
+  "National Cricket Centre, 4010, QLD, Australia": {
+    "area": "Bupa National Cricket Centre, 20, Greg Chappell Street, Breakfast Creek, Albion, City of Brisbane, Queensland, 4010, Australia",
+    "lat": -27.4351984,
+    "lon": 153.0462443,
+    "name": "National Cricket Centre",
+    "postcode": "4010",
+    "source": "facility",
+    "state": "QLD"
+  },
   "National Institute of Dramatic Art, 2033, NSW, Australia": {
     "area": "National Institute of Dramatic Art, Anzac Parade, Kensington, Eastern Suburbs, Sydney, Randwick City Council, New South Wales, 2033, Australia",
     "lat": -33.9154324,
@@ -12475,6 +13652,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "National Lintels, 6165, WA, Australia": null,
   "Natures Organics, 3156, VIC, Australia": null,
   "Nauiyu Nambiyu (Daly River), 822, NT, Australia": null,
   "Nazareth College, 3174, VIC, Australia": {
@@ -12485,6 +13663,15 @@
     "postcode": "3174",
     "source": "facility",
     "state": "VIC"
+  },
+  "Nepean Hospital, 2747, NSW, Australia": {
+    "area": "Nepean Hospital, Parker Street, Penrith, Sydney, New South Wales, 2750, Australia",
+    "lat": -33.7599321,
+    "lon": 150.7134912,
+    "name": "Nepean Hospital",
+    "postcode": "2747",
+    "source": "facility",
+    "state": "NSW"
   },
   "Nerang Administration Centre - QLD, 4211, QLD, Australia": null,
   "Nerang Library, 4211, QLD, Australia": {
@@ -12508,6 +13695,15 @@
     "postcode": "3922",
     "source": "facility",
     "state": "VIC"
+  },
+  "Newington College, 2048, NSW, Australia": {
+    "area": "Newington College, 200, Stanmore Road, Stanmore, Inner West, Sydney, New South Wales, 2048, Australia, Inner West Council",
+    "lat": -33.8979162,
+    "lon": 151.163191,
+    "name": "Newington College",
+    "postcode": "2048",
+    "source": "facility",
+    "state": "NSW"
   },
   "Newtown Toyota (Forward St), 6106, WA, Australia": null,
   "Ngukurr Solar Power Station, 852, NT, Australia": null,
@@ -12551,6 +13747,7 @@
     "state": "WA"
   },
   "Normanton Solar Farm, 4890, QLD, Australia": null,
+  "Norseman Renewable Energy Facility, 6443, WA, Australia": null,
   "North Brown Hill Wind Farm, 5491, SA, Australia": null,
   "North East Water, 3690, VIC, Australia": {
     "area": "North East Water, 83, Thomas Mitchell Drive Service Road, Wodonga, City of Wodonga, Victoria, 3690, Australia",
@@ -12571,6 +13768,7 @@
     "source": "facility",
     "state": "WA"
   },
+  "North Star Junction, 6721, WA, Australia": null,
   "Northam Solar Farm, 6401, WA, Australia": null,
   "NorthamBV, 6401, WA, Australia": null,
   "Northern WWTP Ground Mount, 4870, QLD, Australia": null,
@@ -12587,6 +13785,7 @@
   "Nova Nickel, 6443, WA, Australia": null,
   "Novaplas Group, 6155, WA, Australia": null,
   "NthHead Sewage Treatment Plant, 2095, NSW, Australia": null,
+  "Nu-Pure Unit Trust, 4207, QLD, Australia": null,
   "NuPure Frasers Horsley Park No.1 - Solar PV, 2175, NSW, Australia": null,
   "Nullagine, 6758, WA, Australia": {
     "area": "Nullagine, Shire of East Pilbara, Western Australia, 6758, Australia",
@@ -12622,6 +13821,8 @@
   "O'Brien Group Docklands, 3008, VIC, Australia": null,
   "OEH Lidcombe Labs Solar PV, 2141, NSW, Australia": null,
   "OLERS - FOODWORKS, 3691, VIC, Australia": null,
+  "OLERS - RUTHERGLEN IGA, 3685, VIC, Australia": null,
+  "OLERS - Resource, 3026, VIC, Australia": null,
   "OLERS - Steamatic-Fisher's Cleaning Pty Ltd, 3195, VIC, Australia": null,
   "OLERS-A Touch Of Glass, 3201, VIC, Australia": null,
   "OLERS-Village Dairy, 3844, VIC, Australia": null,
@@ -12693,7 +13894,17 @@
   },
   "Opal Calamvale, 4116, QLD, Australia": null,
   "Opal Carseldine, 4034, QLD, Australia": null,
+  "Opal Cove Korora, 2450, NSW, Australia": {
+    "area": "Opal Cove Resort Coffs Harbour, Gannet Place, Korora Basin, Korora, Coffs Harbour City Council, New South Wales, 2450, Australia",
+    "lat": -30.252211,
+    "lon": 153.1391897,
+    "name": "Opal Cove Korora",
+    "postcode": "2450",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Opal Ringwood, 3134, VIC, Australia": null,
+  "Oran Park Commercial 2, 2570, NSW, Australia": null,
   "Orana Mall Dubbo, 2830, NSW, Australia": {
     "area": "Orana Mall, Windsor Parade, Dubbo, Dubbo Regional Council, New South Wales, 2830, Australia",
     "lat": -32.2558586,
@@ -12724,6 +13935,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Ouyen Rural WPS 96018, 3490, VIC, Australia": null,
   "Ovida Happy Valley, 5159, SA, Australia": null,
   "Ovida Rocky Lamattina WEMEN, 3549, VIC, Australia": null,
   "Oxley Creek Cogeneration Plant, 4106, QLD, Australia": null,
@@ -12731,9 +13943,12 @@
   "Ozito efm frasers Dandenong South No.1 - Solar PV, 3175, VIC, Australia": null,
   "PA Power Microgrid 1 Pty Ltd, 5950, SA, Australia": null,
   "PACE Institute, 4102, QLD, Australia": null,
+  "PAMS Newman, 6753, WA, Australia": null,
   "PAREP Wind, 5700, SA, Australia": null,
   "PARKES SOLAR FARM PTY LTD, 2870, NSW, Australia": null,
   "PE - Llandilo, 2747, NSW, Australia": null,
+  "PEPE'S DUCKS HAM ST, 2756, NSW, Australia": null,
+  "PEPE'S DUCKS WALKER ST, 2756, NSW, Australia": null,
   "PFD Foodservices, 2190, NSW, Australia": null,
   "PFIZER MELBOURNE B7, 3170, VIC, Australia": null,
   "PFIZER MELBOURNE BUILDING 6, 3170, VIC, Australia": null,
@@ -12782,6 +13997,16 @@
     "state": "QLD"
   },
   "Paronella Micro, 4871, QLD, Australia": null,
+  "Parramatta Children's Court, 2150, NSW, Australia": null,
+  "Parramatta Courthouse, 2150, NSW, Australia": {
+    "area": "Parramatta Justice Precinct, George Street, Sydney, City of Parramatta Council, New South Wales, 2150, Australia",
+    "lat": -33.8123867,
+    "lon": 151.0018273,
+    "name": "Parramatta Courthouse",
+    "postcode": "2150",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Pedler Creek LFG Power Station, 5171, SA, Australia": null,
   "Peel Renewable Energy Stake Hill, 6181, WA, Australia": null,
   "Pemberton, 6260, WA, Australia": {
@@ -12858,6 +14083,15 @@
     "lon": 119.7276399,
     "name": "Pilbara Motor Group",
     "postcode": "6714",
+    "source": "facility",
+    "state": "WA"
+  },
+  "Pilgangoora, 6760, WA, Australia": {
+    "area": "Pilgangoora Lithium Mine, Marble Bar, Shire of East Pilbara, Western Australia, Australia",
+    "lat": -21.05945,
+    "lon": 118.8955667,
+    "name": "Pilgangoora",
+    "postcode": "6760",
     "source": "facility",
     "state": "WA"
   },
@@ -12950,6 +14184,7 @@
     "source": "facility",
     "state": "VIC"
   },
+  "Preston Mini, 3073, VIC, Australia": null,
   "Prima Fresh, 3616, VIC, Australia": null,
   "Prima Printing Noble Park, 3174, VIC, Australia": null,
   "ProTen SA Farm 5, 5550, SA, Australia": null,
@@ -12980,6 +14215,7 @@
   "Proten Solar NSW - Farm 92-1, 2340, NSW, Australia": null,
   "Proten Solar NSW - Farm 92-2, 2340, NSW, Australia": null,
   "Pullar Cold Storage, 3644, VIC, Australia": null,
+  "Pumpa Manufacturing, 3585, VIC, Australia": null,
   "Pureharvest, 3818, VIC, Australia": {
     "area": "Pureharvest, 32, Lardner Road, Drouin, Shire of Baw Baw, Victoria, 3818, Australia",
     "lat": -38.1426491,
@@ -13064,6 +14300,7 @@
     "source": "facility",
     "state": "VIC"
   },
+  "RK & JR GORDON, 3568, VIC, Australia": null,
   "RNA Showgrounds Bowen Hills, 4006, QLD, Australia": {
     "area": "RNA Members Stand, Clem Jones Tunnel, Brisbane Showgrounds, Fortitude Valley, Bowen Hills, Brisbane, Queensland, 4006, Australia",
     "lat": -27.4500826,
@@ -13073,6 +14310,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "ROBE SOLAR FARM, 2650, NSW, Australia": null,
   "ROCKLEA PRESSED METAL, 4110, QLD, Australia": null,
   "RSM Casino, 2470, NSW, Australia": {
     "area": "Casino RSM Cougars Rugby League Fields, QEII Park Walking Trail, Casino, Richmond Valley Council, New South Wales, 2470, Australia",
@@ -13116,12 +14354,15 @@
   "Redmud Green Energy 120, 5550, SA, Australia": null,
   "Redmud Green Energy 122, 5271, SA, Australia": null,
   "Redmud Green Energy 123, 5253, SA, Australia": null,
+  "Redmud Green Energy 124, 5341, SA, Australia": null,
   "Redmud Green Energy 12A, 5341, SA, Australia": null,
   "Redmud Green Energy 13, 5340, SA, Australia": null,
   "Redmud Green Energy 14, 5333, SA, Australia": null,
   "Redmud Green Energy 15, 5341, SA, Australia": null,
   "Redmud Green Energy 16, 5333, SA, Australia": null,
+  "Redmud Green Energy 165 Pty Ltd, 2825, NSW, Australia": null,
   "Redmud Green Energy 17, 5333, SA, Australia": null,
+  "Redmud Green Energy 173 Pty Ltd, 5554, SA, Australia": null,
   "Redmud Green Energy 18, 5340, SA, Australia": null,
   "Redmud Green Energy 2, 5341, SA, Australia": null,
   "Redmud Green Energy 20, 5340, SA, Australia": null,
@@ -13180,6 +14421,7 @@
   "Redmud Green Energy 95, 5341, SA, Australia": null,
   "Redmud Green Energy 97, 5341, SA, Australia": null,
   "Redmud GreenEnergy 80, 3525, VIC, Australia": null,
+  "Redwing (Ashmore) Pty Ltd, 4217, QLD, Australia": null,
   "Reece Hydro Power Station, 7321, TAS, Australia": null,
   "Reedy Creek - LFG, 4220, QLD, Australia": null,
   "Reedy Creek Renewable Energy Facility, 4228, QLD, Australia": null,
@@ -13192,6 +14434,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Region Group Kalamunda, 6076, WA, Australia": null,
   "Reid Bros WW Biomass Generator, 3797, VIC, Australia": null,
   "Renmark Self Storage, 5341, SA, Australia": {
     "area": "Renmark Self Storage, Lot 97, Eighteenth Street, Renmark, South Australia, 5341, Australia",
@@ -13209,6 +14452,9 @@
   "Research Road Waste Water Treatment, 5355, SA, Australia": null,
   "Retail First Calamvale, 4116, QLD, Australia": null,
   "Retail First Strathpine, 4500, QLD, Australia": null,
+  "Retail First Sunnybank Hills, 4109, QLD, Australia": null,
+  "Retail First Sunnybank Plaza, 4109, QLD, Australia": null,
+  "Revolution Narangba, 4504, QLD, Australia": null,
   "Revolution Roofing, 5010, SA, Australia": null,
   "Rhinland Cold Storage, 6054, WA, Australia": null,
   "Richmond Grove PR2, 5352, SA, Australia": {
@@ -13259,7 +14505,17 @@
     "source": "facility",
     "state": "SA"
   },
+  "Robertson Barracks Solar Farm, 830, NT, Australia": null,
   "Robertson Brothers Sawmills, 4570, QLD, Australia": null,
+  "Robina Central, 4226, QLD, Australia": {
+    "area": "Robina Central, Robina, Gold Coast, Queensland, 4226, Australia",
+    "lat": -28.0815624,
+    "lon": 153.3819168,
+    "name": "Robina Central",
+    "postcode": "4226",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Robina Town Centre Office Building, 4226, QLD, Australia": null,
   "Robina Town Centre, 4226, QLD, Australia": {
     "area": "Robina Town Centre, Robina Town Centre Drive, Robina, Gold Coast, Queensland, 4226, Australia",
@@ -13302,6 +14558,7 @@
   "Rooty Hill car Park, 2766, NSW, Australia": null,
   "Ropes Crossing Village Shopping Centre, 2760, NSW, Australia": null,
   "Rosebud RSL Sub Branch Inc, 3939, VIC, Australia": null,
+  "Rosehill Asphalt Plant, 2142, NSW, Australia": null,
   "Roseville College - Solar PV w SGU, 2069, NSW, Australia": null,
   "Roseworthy Campus, 5371, SA, Australia": {
     "area": "University of Adelaide, Roseworthy Campus, 1454, Mudla Wirra Road, Wasleys, Light Regional Council, South Australia, 5400, Australia",
@@ -13345,6 +14602,7 @@
   },
   "Rowallan Hydro Power Station, 7306, TAS, Australia": null,
   "Rowland Flat PR1, 5352, SA, Australia": null,
+  "Rowville Terminal Station, 3178, VIC, Australia": null,
   "Royal Australian Mint, 2600, ACT, Australia": {
     "area": "Royal Australian Mint, Denison Street, Deakin, Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",
     "lat": -35.318898,
@@ -13368,7 +14626,9 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Ruxdale, 4670, QLD, Australia": null,
   "Ryan & Mcnulty, 3672, VIC, Australia": null,
+  "Ryan Corner Wind Farm, 3284, VIC, Australia": null,
   "Ryde Aquatic Leisure Centre, 2112, NSW, Australia": {
     "area": "Ryde Aquatic Leisure Centre, 504, Victoria Road, Ryde, Sydney, Council of the City of Ryde, New South Wales, 2112, Australia",
     "lat": -33.8216035,
@@ -13411,13 +14671,20 @@
     "source": "facility",
     "state": "VIC"
   },
+  "SANDVIK ORANGE, 2800, NSW, Australia": null,
   "SCG Fountain Gate, 3805, VIC, Australia": null,
+  "SCG Hornsby, 2077, NSW, Australia": null,
   "SCG Knox, 3152, VIC, Australia": null,
+  "SCG Tuggerah, 2259, NSW, Australia": null,
   "SCHO002, 2762, NSW, Australia": null,
   "SCHO003, 2762, NSW, Australia": null,
+  "SCHO005, 2762, NSW, Australia": null,
+  "SCHO006, 2762, NSW, Australia": null,
+  "SCHO007, 2762, NSW, Australia": null,
   "SCS Shepparton VIC, 3630, VIC, Australia": null,
   "SCV Canning Vale 0.25MW, 6155, WA, Australia": null,
   "SIDDALL LANGHORNE CREEK, 5255, SA, Australia": null,
+  "SIGNCRAFT PTY, 3025, VIC, Australia": null,
   "SIMS Gillman Solar Facility, 5013, SA, Australia": null,
   "SIPS Staypylton Industrial Power Station, 4207, QLD, Australia": null,
   "SLQ, 4132, QLD, Australia": null,
@@ -13425,6 +14692,7 @@
   "SNOWTOWN SOUTH WIND FARM, 5520, SA, Australia": null,
   "SNOWTOWN WIND FARM STAGE 2, 5520, SA, Australia": null,
   "SNP Bowen Hills, 4006, QLD, Australia": null,
+  "SOUTHERN STEEL (WA) PTY LIMITED, 6165, WA, Australia": null,
   "SPL - Solar with SGU, 6109, WA, Australia": null,
   "SRT Logistics Devonport, 7310, TAS, Australia": null,
   "SRT Logistics Launceston, 7212, TAS, Australia": null,
@@ -13460,16 +14728,36 @@
   },
   "Salt Creek Wind Farm, 3272, VIC, Australia": null,
   "San Carlo Home for the Aged, 3752, VIC, Australia": null,
+  "Sandstone Renewable Energy Facility - Solar and BESS, 6639, WA, Australia": null,
   "Sandvik Heatherbrae, 2324, NSW, Australia": null,
   "Sanofi Aventis, 4014, QLD, Australia": null,
   "Sapphire Wind Farm, 2360, NSW, Australia": null,
+  "Sarstedt - Mawson Lakes, 5095, SA, Australia": {
+    "area": "Sarstedt Manufacturing, Park Way, Mawson Lakes, Adelaide, City of Salisbury, South Australia, 5095, Australia",
+    "lat": -34.818344,
+    "lon": 138.6148891,
+    "name": "Sarstedt - Mawson Lakes",
+    "postcode": "5095",
+    "source": "facility",
+    "state": "SA"
+  },
   "Sassafras Wind Turbine, 7307, TAS, Australia": null,
   "Scentre Group Ltd Coomera, 4209, QLD, Australia": null,
   "Scentre Group Plenty Valley, 3082, VIC, Australia": null,
   "Scentre Westfield Kotara 1.566 MW, 2289, NSW, Australia": null,
+  "Scholastic Lisarow, 2250, NSW, Australia": {
+    "area": "Scholastic Australia Pty Limited, Railway Crescent, Lisarow, Gosford, Central Coast Council, New South Wales, 2250, Australia",
+    "lat": -33.3821058,
+    "lon": 151.3662361,
+    "name": "Scholastic Lisarow",
+    "postcode": "2250",
+    "source": "facility",
+    "state": "NSW"
+  },
   "Scholle IPN, 5113, SA, Australia": null,
   "Schutz Yatala, 4207, QLD, Australia": null,
   "Schwartz Family Solar Farm Solar PV, 2325, NSW, Australia": null,
+  "Schwartz Family Solar farm No 2, 2325, NSW, Australia": null,
   "Scienceworks - Solar [w SGU], 3015, VIC, Australia": null,
   "Scotch College Junior School w SGU, 6010, WA, Australia": null,
   "Scotch College Senior School, 6010, WA, Australia": null,
@@ -13530,6 +14818,7 @@
     "state": "NSW"
   },
   "Shepparton One Sewage Gas, 3631, VIC, Australia": null,
+  "Shepparton Private Hospital - 318kW, 3630, VIC, Australia": null,
   "Shoal Bay LFG, 812, NT, Australia": null,
   "Shoalhaven Energy Project, 2540, NSW, Australia": null,
   "Shoreline Coffs Harbour, 2450, NSW, Australia": {
@@ -13562,6 +14851,9 @@
   },
   "Sigma Healthcare, 5095, SA, Australia": null,
   "Sigma Pharmaceutical Kemps Creek - NSW, 2178, NSW, Australia": null,
+  "Signature Care Officer Community Aged Care, 3809, VIC, Australia": null,
+  "Signature Care Tamworth Community Aged Care, 2340, NSW, Australia": null,
+  "Signature Care Wagga Wagga Community Aged Care w SGU, 2650, NSW, Australia": null,
   "Silvan Mini, 3795, VIC, Australia": null,
   "Silverton Wind Farm, 2880, NSW, Australia": null,
   "Singleton Photovoltaic Power Station, 2330, NSW, Australia": null,
@@ -13584,7 +14876,9 @@
     "source": "facility",
     "state": "TAS"
   },
+  "Sisters Of St Paul De Chartres, 4124, QLD, Australia": null,
   "Sleeman Sports Centre LFG, 4115, QLD, Australia": null,
+  "Smithfield Sapphire Feedlot, 4390, QLD, Australia": null,
   "Smythesdale LFG, 3351, VIC, Australia": null,
   "Snowtown Wind Farm, 5520, SA, Australia": null,
   "Solaris, 4160, QLD, Australia": {
@@ -13617,6 +14911,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Somerton Pump Station, 3048, VIC, Australia": null,
   "South Cardup WA LFG, 6123, WA, Australia": null,
   "South Gippsland Water - Lance Creek Plant, 3979, VIC, Australia": null,
   "South Gippsland Water - Leongatha WWTP, 3953, VIC, Australia": null,
@@ -13671,7 +14966,18 @@
     "state": "VIC"
   },
   "Southern Steel Milperra, 2214, NSW, Australia": null,
+  "Southern Steel Properties (77 Coulson St), 4076, QLD, Australia": null,
+  "Southern Steel Properties, 4076, QLD, Australia": null,
   "Southern WWTP Ground Mount, 4868, QLD, Australia": null,
+  "Southport Sharks, 4215, QLD, Australia": {
+    "area": "Southport Sharks League Club, Musgrave Avenue, Southport, Gold Coast, Queensland, 4215, Australia",
+    "lat": -27.9555708,
+    "lon": 153.3849471,
+    "name": "Southport Sharks",
+    "postcode": "4215",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Special Equipment - QLD, 4174, QLD, Australia": null,
   "Specialised Breeders Australia Pty Ltd, 3561, VIC, Australia": null,
   "Spence Doors, 3192, VIC, Australia": {
@@ -13692,9 +14998,19 @@
     "source": "facility",
     "state": "VIC"
   },
+  "Springs SC, 6063, WA, Australia": {
+    "area": "Springs, Shire of Wandering, Western Australia, 6308, Australia",
+    "lat": -32.5305695,
+    "lon": 116.6090294,
+    "name": "Springs SC",
+    "postcode": "6063",
+    "source": "facility",
+    "state": "WA"
+  },
   "Springvale Botanical Cemetery, 3171, VIC, Australia": null,
   "St Albans Mini, 3021, VIC, Australia": null,
   "St Andrew's Lutheran College Tallebudgera, 4228, QLD, Australia": null,
+  "St Andrews Ipswich Private Hospital, 4305, QLD, Australia": null,
   "St Anthony's Padua, 4818, QLD, Australia": null,
   "St Augustine's College, 2100, NSW, Australia": {
     "area": "St Augustine's College, 18-22, Alfred Road, Brookvale, Northern Beaches, Sydney, New South Wales, 2100, Australia",
@@ -13725,6 +15041,15 @@
     "postcode": "3175",
     "source": "facility",
     "state": "VIC"
+  },
+  "St Josephs Mt Isa, 4825, QLD, Australia": {
+    "area": "St. Josephs Training Centre, Church Street, Parkside, Mount Isa, Mount Isa City, Queensland, 4825, Australia",
+    "lat": -20.7294427,
+    "lon": 139.485728,
+    "name": "St Josephs Mt Isa",
+    "postcode": "4825",
+    "source": "facility",
+    "state": "QLD"
   },
   "St Kilda Town Hall, 3182, VIC, Australia": {
     "area": "St Kilda Town Hall, Carlisle Street, St Kilda, Melbourne, City of Port Phillip, Victoria, 3182, Australia",
@@ -13831,6 +15156,7 @@
     "state": "SA"
   },
   "State Archives and Records, 2747, NSW, Australia": null,
+  "State Herbarium - Solar(wSGU) - Adelaide, 5000, SA, Australia": null,
   "SteelRod, 4504, QLD, Australia": null,
   "Stennett Rd Ingleburn, 2565, NSW, Australia": {
     "area": "Stennett Road, Ingleburn, Sydney, Campbelltown City Council, New South Wales, 2565, Australia",
@@ -13936,6 +15262,7 @@
   "Stotts Creek - Landfill Gas (LFG), 2487, NSW, Australia": null,
   "Strata SP76024, 2487, NSW, Australia": null,
   "Strathane Agricultural Waste, 4361, QLD, Australia": null,
+  "Strathpine Shopping Square, 4500, QLD, Australia": null,
   "Streaky Bay Energy Project, 5680, SA, Australia": null,
   "Stromlo, 2611, ACT, Australia": {
     "area": "District of Stromlo, Australian Capital Territory, Australia",
@@ -13961,6 +15288,7 @@
     "source": "facility",
     "state": "QLD"
   },
+  "Sun Spot 3 Pty Ltd, 3635, VIC, Australia": null,
   "Suncoast Gold Macadamias, 4570, QLD, Australia": null,
   "Sundance Scarborough, 6019, WA, Australia": null,
   "Sundown Furniture Derrimut, 3026, VIC, Australia": null,
@@ -13990,6 +15318,7 @@
   "Swanbank Renewable Energy - LFG, 4306, QLD, Australia": null,
   "Swanbank Renewable Energy Facility, 4305, QLD, Australia": null,
   "Sydney Airport T1 Carpark, 2020, NSW, Australia": null,
+  "Sydney Lambs Pty Ltd, 2140, NSW, Australia": null,
   "Sydney Markets Flemington, 2140, NSW, Australia": {
     "area": "Sydney Growers Market, Growers Road, Flemington Markets, Homebush West, Inner West, Sydney, Strathfield Municipal Council, New South Wales, 2140, Australia",
     "lat": -33.8612983,
@@ -14004,6 +15333,7 @@
   "Sydney Renewable Power Company, 2009, NSW, Australia": null,
   "Sydney Superdome Photovoltaic, 2127, NSW, Australia": null,
   "Sydney Theatre Company, 2000, NSW, Australia": null,
+  "Sylvan Australia, 2753, NSW, Australia": null,
   "Symbio, 3023, VIC, Australia": null,
   "Symbion Acacia Ridge, 4110, QLD, Australia": null,
   "Symbion Pty Ltd, 5032, SA, Australia": null,
@@ -14048,8 +15378,18 @@
   "TaiTung Australia Pty Ltd, 2170, NSW, Australia": null,
   "Tailem Bend 2 Hybrid Renewable Power Station, 5260, SA, Australia": null,
   "Tailem Bend Solar farm, 5260, SA, Australia": null,
+  "Taminga Phase 1, 5010, SA, Australia": {
+    "area": "Taminga Street, Regency Park, Adelaide, City of Port Adelaide Enfield, South Australia, 5010, Australia",
+    "lat": -34.860128,
+    "lon": 138.5709175,
+    "name": "Taminga Phase 1",
+    "postcode": "5010",
+    "source": "facility",
+    "state": "SA"
+  },
   "Tamworth Agricultural Institute Calala, 2340, NSW, Australia": null,
   "Tangwood Berrinba, 4117, QLD, Australia": null,
+  "Tanilba Bay WWTW, 2319, NSW, Australia": null,
   "Tanloden, 3551, VIC, Australia": null,
   "Taplin Corporation - Jetty Road Properties, 5045, SA, Australia": null,
   "Taplin Corporation - Marden Shopping Centre, 5070, SA, Australia": null,
@@ -14165,6 +15505,7 @@
     "state": "TAS"
   },
   "Thomson Hydro Power Station, 3825, VIC, Australia": null,
+  "Thunderbox, 4132, QLD, Australia": null,
   "Thursday Island, 4875, QLD, Australia": {
     "area": "Thursday Island, Torres Shire, Queensland, 4875, Australia",
     "lat": -10.561097,
@@ -14295,6 +15636,15 @@
     "source": "facility",
     "state": "VIC"
   },
+  "Tuckabianna, 6640, WA, Australia": {
+    "area": "Tuckabianna Road, Shire of Cue, Western Australia, Australia",
+    "lat": -27.4000805,
+    "lon": 118.1794345,
+    "name": "Tuckabianna",
+    "postcode": "6640",
+    "source": "facility",
+    "state": "WA"
+  },
   "Tully Sugar Mill, 4854, QLD, Australia": null,
   "Tumut 1, 2629, NSW, Australia": {
     "area": "Tumut 2 Power Station, Cabramurra, Snowy Valleys Council, New South Wales, 2629, Australia",
@@ -14355,13 +15705,16 @@
     "state": "NSW"
   },
   "UNSW Morven Brown PV, 2033, NSW, Australia": null,
+  "UTS Building A/B, 2019, NSW, Australia": null,
   "UTS Building D, 2019, NSW, Australia": null,
   "UWA - Indian Ocean Marine Research Centre, 6009, WA, Australia": null,
   "Ultra Plas Springvale, 3171, VIC, Australia": null,
   "UniSA City West Campus - Solar PV, 5000, SA, Australia": null,
   "UniSA Mawson Lakes Campus, 5095, SA, Australia": null,
+  "Uniplas Wetherill Park, 2164, NSW, Australia": null,
   "Uniqlo Solar System, 3029, VIC, Australia": null,
   "Unique Power, 6065, WA, Australia": null,
+  "Uniting Alroy House, 2330, NSW, Australia": null,
   "University Of Melbourne Creswick, 3363, VIC, Australia": {
     "area": "The University of Melbourne, Creswick Campus, 4, Water Street, Creswick, Victoria, 3363, Australia",
     "lat": -37.4222127,
@@ -14446,6 +15799,7 @@
     "state": "QLD"
   },
   "Upper Yarra Mini, 3799, VIC, Australia": null,
+  "Urban Utilities Luggage Point Cogen - Biogas, 4008, QLD, Australia": null,
   "Uterne Solar Farm, 870, NT, Australia": null,
   "Utick - Todae Solar PV - Somersby, 2250, NSW, Australia": null,
   "V&C Foods South Nowra, 2541, NSW, Australia": null,
@@ -14491,6 +15845,7 @@
   "Valley Park Farm, 3660, VIC, Australia": null,
   "Van Wyk Flowers, 3975, VIC, Australia": null,
   "Vawdrey Manufacturing, 3175, VIC, Australia": null,
+  "Vaxxas Hamilton, 4007, QLD, Australia": null,
   "Vesuvius Australia Pty Ltd, 2505, NSW, Australia": null,
   "Vicinity - Albany Highway, Victoria Park, 6100, WA, Australia": null,
   "Vicinity - Corner Station St And Woodriff St, Penrith, 2750, NSW, Australia": null,
@@ -14548,6 +15903,7 @@
   "W & S PLASTICS 198 KW, 2170, NSW, Australia": null,
   "W Ryan Abattoirs Pty Ltd, 3638, VIC, Australia": null,
   "WALKERS SAWMILL SOLAR SYSTEM, 3707, VIC, Australia": null,
+  "WARRIGAL CARE SHELL COVE, 2529, NSW, Australia": null,
   "WCC Gibbes St Depot, 2067, NSW, Australia": null,
   "WERNER, 4740, QLD, Australia": {
     "area": "Werner Street, Park Avenue, Rockhampton, Queensland, 4701, Australia",
@@ -14574,7 +15930,17 @@
     "source": "facility",
     "state": "QLD"
   },
+  "WaSS Bega Depot and WTP, 2550, NSW, Australia": null,
   "Wagga Wagga North Solar Farm, 2650, NSW, Australia": null,
+  "Waikiki, 6169, WA, Australia": {
+    "area": "Waikiki, City of Rockingham, Western Australia, 6169, Australia",
+    "lat": -32.3142076,
+    "lon": 115.7557333,
+    "name": "Waikiki",
+    "postcode": "6169",
+    "source": "facility",
+    "state": "WA"
+  },
   "Walla Walla Solar Farm, 2659, NSW, Australia": null,
   "Wallaroo WWTP, 5556, SA, Australia": null,
   "Wallerawang Power Station, 2845, NSW, Australia": {
@@ -14630,6 +15996,15 @@
   "Waslee Downs Wind Farm, 6521, WA, Australia": null,
   "Waterloo Wind Farm, 5413, SA, Australia": null,
   "Watershed Premium Wines Ltd, 6285, WA, Australia": null,
+  "Watervale Dr Green Fields, 5107, SA, Australia": {
+    "area": "Watervale Drive, Green Fields, Adelaide, South Australia, 5107, Australia",
+    "lat": -34.7956898,
+    "lon": 138.6059541,
+    "name": "Watervale Dr Green Fields",
+    "postcode": "5107",
+    "source": "facility",
+    "state": "SA"
+  },
   "Wathagar, 2400, NSW, Australia": {
     "area": "Wathagar Cotton Gin, 2910, Moree, Moree Plains Shire Council, New South Wales, 2400, Australia",
     "lat": -29.5525818,
@@ -14686,6 +16061,15 @@
     "state": "VIC"
   },
   "Werribee Supa IGA, 3030, VIC, Australia": null,
+  "Wesley College South Perth, 6151, WA, Australia": {
+    "area": "Wesley College, Angelo Street, South Perth, Perth, Western Australia, 6151, Australia",
+    "lat": -31.9792623,
+    "lon": 115.8660965,
+    "name": "Wesley College South Perth",
+    "postcode": "6151",
+    "source": "facility",
+    "state": "WA"
+  },
   "West Belconnen LFG Power Station, 2616, ACT, Australia": null,
   "West Coast Eagles, 6100, WA, Australia": null,
   "West Kiewa Hydro, 3000, VIC, Australia": null,
@@ -14774,6 +16158,8 @@
   "Whitwood Road LFG, 4305, QLD, Australia": null,
   "Whyalla Solar Farm 1, 5601, SA, Australia": null,
   "Wickham Farms Killarney, 4373, QLD, Australia": null,
+  "Wideline Joule Place, 2259, NSW, Australia": null,
+  "Wideline Newbridge Road, 2261, NSW, Australia": null,
   "Wild Cattle Hill Wind Farm, 7030, TAS, Australia": null,
   "Willawong - LFG, 4110, QLD, Australia": null,
   "William Hovell Hydro, 3678, VIC, Australia": null,
@@ -14821,6 +16207,8 @@
   },
   "Wine Innovation East, 5064, SA, Australia": null,
   "Wingfield 1 LFG Power Station, 5013, SA, Australia": null,
+  "Wingfield Asphalt Plant, 5013, SA, Australia": null,
+  "Winneke Water Treatment Plant, 3775, VIC, Australia": null,
   "Winton Solar Farm, 3673, VIC, Australia": null,
   "Wivenhoe Power Station, 4306, QLD, Australia": null,
   "Wodonga Institute of Tafe, 3690, VIC, Australia": null,
@@ -14858,6 +16246,9 @@
   "Woolnorth Studland Bay Wind Farm Pty Ltd, 7330, TAS, Australia": null,
   "Woolooga SF, 4570, QLD, Australia": null,
   "Woolworths 1180 Coffs Harbour, 2450, NSW, Australia": null,
+  "Woolworths Aberglasslyn 1410, 2320, NSW, Australia": null,
+  "Woolworths Ashfield North 1813, 2131, NSW, Australia": null,
+  "Woolworths Ayr 2563, 4807, QLD, Australia": null,
   "Woolworths Bakewell, 832, NT, Australia": {
     "area": "Woolworths, 253, Chung Wah Terrace, Bakewell, Palmerston, Northern Territory, 0832, Australia",
     "lat": -12.4985972,
@@ -14877,7 +16268,9 @@
     "state": "NSW"
   },
   "Woolworths Bannockburn 2866, 4207, QLD, Australia": null,
+  "Woolworths Bayswater 3141, 3153, VIC, Australia": null,
   "Woolworths Bega 1372, 2550, NSW, Australia": null,
+  "Woolworths Bellmere 2015, 4510, QLD, Australia": null,
   "Woolworths Bomaderry 1641, 2541, NSW, Australia": null,
   "Woolworths Bowen 2562, 4805, QLD, Australia": null,
   "Woolworths Bowral 1162, 2576, NSW, Australia": null,
@@ -14919,6 +16312,7 @@
   "Woolworths Chermside Marketplace, 4032, QLD, Australia": null,
   "Woolworths Chinchilla 2079, 4413, QLD, Australia": null,
   "Woolworths Christies Beach 5739, 5165, SA, Australia": null,
+  "Woolworths Clarkson 4431, 6030, WA, Australia": null,
   "Woolworths Coolalinga, 839, NT, Australia": {
     "area": "Woolworths, Henning Road, Coolalinga, Litchfield Municipality, Northern Territory, 0839, Australia",
     "lat": -12.5249035,
@@ -14946,8 +16340,10 @@
     "source": "facility",
     "state": "SA"
   },
+  "Woolworths DC Larapinta 2993, 4110, QLD, Australia": null,
   "Woolworths DC Melbourne Fresh MSB1 3953, 3029, VIC, Australia": null,
   "Woolworths DC Melbourne Fresh MSB2 3953, 3029, VIC, Australia": null,
+  "Woolworths DC Moorebank NDC, 2170, NSW, Australia": null,
   "Woolworths DC Townsville 2996, 4818, QLD, Australia": null,
   "Woolworths DC Wyong 1933, 2259, NSW, Australia": null,
   "Woolworths Dakabin 2660, 4503, QLD, Australia": null,
@@ -14955,6 +16351,7 @@
   "Woolworths Dickson 1073, 2602, ACT, Australia": null,
   "Woolworths Emerton 1625, 2770, NSW, Australia": null,
   "Woolworths Forbes 1307, 2871, NSW, Australia": null,
+  "Woolworths Forster 1177, 2428, NSW, Australia": null,
   "Woolworths Gawler 5617, 5118, SA, Australia": null,
   "Woolworths Glen Innes, 2370, NSW, Australia": {
     "area": "Woolworths, Services Lane, Glen Innes, Glen Innes Severn Council, New South Wales, 2370, Australia",
@@ -14965,6 +16362,7 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Woolworths Glendale 1172, 2285, NSW, Australia": null,
   "Woolworths Gloucester 1680, 2422, NSW, Australia": null,
   "Woolworths Gordonvale West 2642, 4865, QLD, Australia": null,
   "Woolworths Granville 1759, 2142, NSW, Australia": null,
@@ -14994,6 +16392,7 @@
   "Woolworths Jerrabomberra 1407, 2619, NSW, Australia": null,
   "Woolworths Kadina 5610, 5554, SA, Australia": null,
   "Woolworths Katherine 5636, 850, NT, Australia": null,
+  "Woolworths Kellyville 1347, 2155, NSW, Australia": null,
   "Woolworths Kempsey 1170, 2440, NSW, Australia": null,
   "Woolworths Kirrawee 1579, 2232, NSW, Australia": null,
   "Woolworths Lakewood 1221, 2443, NSW, Australia": null,
@@ -15006,6 +16405,8 @@
     "source": "facility",
     "state": "VIC"
   },
+  "Woolworths Leanyer 5659, 812, NT, Australia": null,
+  "Woolworths Leppington 1024, 2179, NSW, Australia": null,
   "Woolworths Lithgow 1242, 2790, NSW, Australia": null,
   "Woolworths MSRDC Dandenong South, 3175, VIC, Australia": null,
   "Woolworths Mandurah 4395, 6210, WA, Australia": null,
@@ -15027,11 +16428,15 @@
     "source": "facility",
     "state": "NSW"
   },
+  "Woolworths Millicent 5647, 5280, SA, Australia": null,
   "Woolworths Moorabbin 3136, 3189, VIC, Australia": null,
+  "Woolworths Mossman 2769, 4873, QLD, Australia": null,
   "Woolworths Mt Barker 5682, 5251, SA, Australia": null,
+  "Woolworths Mt Barker South 5098, 5251, SA, Australia": null,
   "Woolworths Mt Isa 2539 - Solar w SGU - NSW, 4825, QLD, Australia": null,
   "Woolworths Mudgee 1086, 2850, NSW, Australia": null,
   "Woolworths Nambucca Heads 1311, 2448, NSW, Australia": null,
+  "Woolworths Naracoorte 5602, 5271, SA, Australia": null,
   "Woolworths Narangba 2606, 4504, QLD, Australia": null,
   "Woolworths Narooma 1274, 2546, NSW, Australia": null,
   "Woolworths Narrabri 1305, 2390, NSW, Australia": null,
@@ -15055,11 +16460,13 @@
   },
   "Woolworths Redbank Plains Mountview 2867, 4301, QLD, Australia": null,
   "Woolworths Redland Bay Shopping Centre 2714, 4165, QLD, Australia": null,
+  "Woolworths Renmark 5608, 5341, SA, Australia": null,
   "Woolworths Revesby 1402, 2212, NSW, Australia": null,
   "Woolworths Riverway Plaza 2623, 4815, QLD, Australia": null,
   "Woolworths Rosehill 1123, 2142, NSW, Australia": null,
   "Woolworths Rutherford 1208, 2320, NSW, Australia": null,
   "Woolworths SLDC Erskine Park, 2759, NSW, Australia": null,
+  "Woolworths Sandgate 2605, 4017, QLD, Australia": null,
   "Woolworths Shellharbour 1197, 2529, NSW, Australia": {
     "area": "Woolworths Avenue, Warilla, Shellharbour City Council, New South Wales, 2528, Australia",
     "lat": -34.5462632,
@@ -15097,6 +16504,7 @@
   },
   "Woolworths Wangaratta 3263, 3677, VIC, Australia": null,
   "Woolworths West Ryde 1341, 2114, NSW, Australia": null,
+  "Woolworths Whyalla Westland 5635, 5608, SA, Australia": null,
   "Woolworths Wollongong 1030, 2500, NSW, Australia": null,
   "Woolworths Woodcroft 5622, 5162, SA, Australia": null,
   "Woolworths Young, 2594, NSW, Australia": {
@@ -15151,11 +16559,30 @@
     "state": "VIC"
   },
   "Wyndham Landfill, 3030, VIC, Australia": null,
+  "Xavier College - Solar with SGU, 5501, SA, Australia": null,
   "YATPOOL SOLAR FARM, 3494, VIC, Australia": null,
+  "Yadlamalka, 5540, SA, Australia": {
+    "area": "Yadlamalka, South Australia, 5713, Australia",
+    "lat": -31.915515,
+    "lon": 137.8540453,
+    "name": "Yadlamalka",
+    "postcode": "5540",
+    "source": "facility",
+    "state": "SA"
+  },
   "Yalgoo Renewable Energy Facility - Solar and BESS, 6635, WA, Australia": null,
   "Yaloak South Wind Farm, 3342, VIC, Australia": null,
   "Yalumba Winery Solar system (Angaston), 5353, SA, Australia": null,
   "Yalumba Winery Solar system (Oxford Landing), 5355, SA, Australia": null,
+  "Yamanto Central, 4305, QLD, Australia": {
+    "area": "Yamanto Central, 488, Warwick Road, Yamanto, Brisbane, Queensland, 4305, Australia",
+    "lat": -27.6603471,
+    "lon": 152.7420088,
+    "name": "Yamanto Central",
+    "postcode": "4305",
+    "source": "facility",
+    "state": "QLD"
+  },
   "Yamarna Exploration Camp, 6440, WA, Australia": null,
   "Yambuk Wind Farm, 3285, VIC, Australia": null,
   "Yandin Wind Farm, 6507, WA, Australia": null,
@@ -15193,6 +16620,7 @@
     "state": "NSW"
   },
   "Yendon Wind Farm, 3352, VIC, Australia": null,
+  "Yeppoon Sewerage Treatment Plant, 4703, QLD, Australia": null,
   "Yongala Solar Farm, 5493, SA, Australia": null,
   "Your DC Pty Ltd - Edinburgh, 5111, SA, Australia": null,
   "Ythan Creek, 3799, VIC, Australia": null,
