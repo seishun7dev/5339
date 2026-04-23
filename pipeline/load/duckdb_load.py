@@ -31,6 +31,10 @@ ABS_CSV        = CURATED / "abs_population.csv"
 
 def build_warehouse(db_path: Path = DB_FILE) -> Path:
     if db_path.exists():
+        try:
+            duckdb.connect(str(db_path)).close()
+        except Exception:
+            pass
         db_path.unlink()
 
     con = duckdb.connect(str(db_path))
