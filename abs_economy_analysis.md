@@ -1,5 +1,7 @@
 # ABS Economy & Industry Dataset — Structure & Schema Design
 
+- Not used in this report, but included in the assignment as a potential data source for future analysis.
+
 ## File Overview
 
 | Property | Value |

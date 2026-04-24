@@ -4,3 +4,8 @@ beautifulsoup4
 openpyxl
 rapidfuzz
 duckdb
+matplotlib
+numpy
+geopandas
+shapely
+geodatasets

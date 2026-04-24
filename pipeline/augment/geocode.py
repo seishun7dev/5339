@@ -35,7 +35,7 @@ FACILITY_FILE = Path("data") / "curated" / "facility.csv"
 CACHE_FILE    = Path("data") / "raw" / "geocode" / "nominatim_cache.json"
 
 URL        = "https://nominatim.openstreetmap.org/search"
-USER_AGENT = "COMP5339-A1-geocoder/1.0 (rohansev11@gmail.com)"
+USER_AGENT = "COMP5339-A1-geocoder/1.0 (USYD-semester-1-2026;)"
 DELAY      = 1.1
 
 
